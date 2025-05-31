@@ -1,0 +1,843 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telefe_argentina.png" group-title="Argentina",Telefe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
+https://csc-arr-edge02.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
+
+#EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="" group-title="Argentina",America
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
+https://csc-arr-edge02.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd
+
+#EXTINF:-1 tvg-id="Canal9" tvg-name="Canal 9" tvg-logo="" group-title="Argentina",Canal 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
+https://csc-arr-edge02.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd
+
+#EXTINF:-1 tvg-id="Canal13" tvg-name="Canal 13" tvg-logo="" group-title="Argentina",Canal 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
+https://csc-arr-edge02.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
+
+#EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="" group-title="Argentina",A24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b
+https://csc-arr-edge02.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd
+
+#EXTINF:-1 tvg-id="Canal26" tvg-name="Canal 26" tvg-logo="" group-title="Argentina",Canal 26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
+https://csc-arr-edge02.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd
+
+#EXTINF:-1 tvg-id="TVPublica" tvg-name="TV Pública" tvg-logo="" group-title="Argentina",TV Pública
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
+https://csc-arr-edge02.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
+
+#EXTINF:-1 tvg-id="Cronica" tvg-name="Crónica" tvg-logo="" group-title="Argentina",Crónica
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
+https://csc-arr-edge02.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
+
+#EXTINF:-1 tvg-id="TN" tvg-name="TN" tvg-logo="" group-title="Argentina",TN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
+https://csc-arr-edge02.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
+
+#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="" group-title="Argentina",C5N
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+https://csc-arr-edge02.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
+
+#EXTINF:-1 tvg-id="LaNacionMas" tvg-name="La Nación +" tvg-logo="" group-title="Argentina",La Nación +
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809
+https://csc-arr-edge02.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd
+
+#EXTINF:-1 tvg-id="Canal_Doce" tvg-name="Canal 12" tvg-logo="" group-title="Argentina",Canal 12
+https://broker.cdn.rcs.net.ar/iptelva/ch12cba/output.mpd
+
+#EXTINF:-1 tvg-id="BravoTV" tvg-name="Bravo TV" tvg-logo="" group-title="Entretenimiento",Bravo TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d7d1609477d0b0d51a5b7d1539e65eb:90b61b3fa577eab7b53ef6f1caeb82bf
+https://csc-arr-edge02.sensa.com.ar/bpk-tv/BravoTV/default/index.mpd
+
+#EXTINF:-1 tvg-id="NETTV" tvg-name="NET TV" tvg-logo="" group-title="Argentina",NET TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3db691c7e4520b7b2dc822ab905545a:ee2a1ebe6fcc2ef3b01943cdd9256cc6
+https://csc-arr-edge02.sensa.com.ar/live/eds/NETTV/live_dash_cld/NETTV.mpd
+
+#EXTINF:-1 tvg-id="CnnEspanol" tvg-name="CNN Español" tvg-logo="" group-title="Noticias",CNN Español
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
+https://csc-arr-edge02.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd
+
+#EXTINF:-1 tvg-id="T5Satelital" tvg-name="T5 Satelital" tvg-logo="" group-title="Entretenimiento",T5 Satelital
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
+https://csc-arr-edge02.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd
+
+#EXTINF:-1 tvg-id="Cnn_Internacional" tvg-name="CNN Internacional" tvg-logo="" group-title="Noticias",CNN Internacional
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16c07e6ffdddf95b34e666f9fb745eb4:adbd7d96395740ad5a389cba976e31d8
+https://csc-arr-edge02.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd
+
+#EXTINF:-1 tvg-id="Telemundo_Internacional" tvg-name="Telemundo Internacional" tvg-logo="" group-title="Internacional",Telemundo Internacional
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
+https://csc-arr-edge02.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
+
+#EXTINF:-1 tvg-id="DW_Channel" tvg-name="DW Channel" tvg-logo="" group-title="Noticias",DW Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a24d18dae30689d554afc6fc1348734:2f7420bfacfeac635b9e8ed0b5afa554
+https://csc-arr-edge02.sensa.com.ar/live/eds/DWChannel/live_dash_cld/DWChannel.mpd
+
+#EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" tvg-logo="" group-title="Música",Telehit
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=930f2b33864637faf2b2dab6c8d0ba92:530e6561cc4197e9eab7bf7b6f35a3ed
+https://csc-arr-edge02.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd
+
+#EXTINF:-1 tvg-id="Billboard" tvg-name="Billboard" tvg-logo="" group-title="Música",Billboard
+https://csc-arr-edge02.sensa.com.ar/output/SMT1/BLBD/output.mpd
+
+#EXTINF:-1 tvg-id="MiMusicaHit" tvg-name="Mi Música Hit" tvg-logo="" group-title="Música",Mi Música Hit
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
+https://csc-arr-edge02.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
+
+#EXTINF:-1 tvg-id="MiMusicaReggaeton" tvg-name="Mi Música Reggaeton" tvg-logo="" group-title="Música",Mi Música Reggaeton
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
+https://csc-arr-edge02.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd
+
+#EXTINF:-1 tvg-id="MiMusicaRomantica" tvg-name="Mi Música Romántica" tvg-logo="" group-title="Música",Mi Música Romántica
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
+https://csc-arr-edge02.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
+
+#EXTINF:-1 tvg-id="MiMusicaKPOP" tvg-name="Mi Música KPOP" tvg-logo="" group-title="Música",Mi Música KPOP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
+https://csc-arr-edge02.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="" group-title="Música",MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ade94a8e7881a2ba8b3ae3185ed5ad5d:350ba306783e66182b55b761d6cff6d1
+https://csc-arr-edge02.sensa.com.ar/live/eds/MTV/live_dash_cld/MTV.mpd
+
+#EXTINF:-1 tvg-id="MTVLive" tvg-name="MTV Live" tvg-logo="" group-title="Música",MTV Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=886601a4fdbcbfebacbabfebcb72a9ef:6513b2b8fda2b4d2f3d940c621e1c30e
+https://csc-arr-edge02.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd
+
+#EXTINF:-1 tvg-id="QuieroMusica" tvg-name="Quiero Música" tvg-logo="" group-title="Música",Quiero Música
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
+https://csc-arr-edge02.sensa.com.ar/live/eds/QuieroMusica/live_dash_cld/QuieroMusica.mpd
+
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" tvg-logo="" group-title="Documentales",Love Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
+https://csc-arr-edge02.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd
+
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="" group-title="Documentales",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbea5682978c5593d7f9f32ba3fbd000:992754095f050d53163c059ff4e81571
+https://csc-arr-edge02.sensa.com.ar/live/eds/AnimalPlanet/live_dash_cld/AnimalPlanet.mpd
+
+#EXTINF:-1 tvg-id="Allegro" tvg-name="Allegro" tvg-logo="" group-title="Música",Allegro
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53dcb05ef1f0bbd2093b0c2fe8e55a5e:d2fb9a4f8244a9af19893be032c43d3f
+https://csc-arr-edge02.sensa.com.ar/bpk-tv/Allegro/default/index.mpd
+
+#EXTINF:-1 tvg-id="Entertaiment" tvg-name="Entertainment" tvg-logo="" group-title="Entretenimiento",Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0839729159fd400250f90532f41b65f3:992972a1b89982c359c4b4a5f8034eed
+https://csc-arr-edge02.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd
+
+#EXTINF:-1 tvg-id="ElGourmet" tvg-name="El Gourmet" tvg-logo="" group-title="Cocina",El Gourmet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0853b1d2af7d6ee5f7a8a571637ee6b7:f173ff83e8a50d7d0c363cde0c261dc6
+https://csc-arr-edge02.sensa.com.ar/live/eds/ElGourmet/live_dash_cld/ElGourmet.mpd
+
+#EXTINF:-1 tvg-id="Estrellas" tvg-name="Estrellas" tvg-logo="" group-title="Entretenimiento",Estrellas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d17e47a4a6feed691363e2e57c2e322:5e4906262b25b3f461eb9c63ea04b500
+https://csc-arr-edge02.sensa.com.ar/live/eds/Estrellas/live_dash_cld/Estrellas.mpd
+
+#EXTINF:-1 tvg-id="TNTSports" tvg-name="TNT Sports" tvg-logo="" group-title="Deportes",TNT Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+https://csc-arr-edge02.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
+
+#EXTINF:-1 tvg-id="TNTNovelas" tvg-name="TNT Novelas" tvg-logo="" group-title="Entretenimiento",TNT Novelas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a026fc3d443454cf1aae486b688ca9a:7665c2f6e791d44f047e5ffa927382aa
+https://csc-arr-edge02.sensa.com.ar/live/eds/TNTNovelas/live_dash_cld/TNTNovelas.mpd
+
+#EXTINF:-1 tvg-id="TNTSeries" tvg-name="TNT Series" tvg-logo="" group-title="Series",TNT Series
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d15f2d2f8f81fbacd82391f5889aa3a:97c7a5029500a81d37f2b70d6276fc9a
+https://csc-arr-edge02.sensa.com.ar/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="" group-title="Entretenimiento",TNT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
+https://csc-arr-edge02.sensa.com.ar/live/eds/TNT/live_dash_cld/TNT.mpd
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="Cine",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dead023f7a81634339ae639990c1517a:ba970222b4466c61d0deccc67ab34452
+https://csc-arr-edge02.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="" group-title="Cine",HBO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f962b76c3693dafee011746344b5e823:1ac863f1633dfc2d3db069f3dd9a8145
+https://csc-arr-edge02.sensa.com.ar/live/eds/HBO2/live_dash_cld/HBO2.mpd
+
+#EXTINF:-1 tvg-id="HBOPop" tvg-name="HBO Pop" tvg-logo="" group-title="Cine",HBO Pop
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5cf1ad9c7bc0a20051535aff63a5c04:019ea0de590a01385f50ae3fe090d19e
+https://csc-arr-edge02.sensa.com.ar/live/eds/HBOPop/live_dash_cld/HBOPop.mpd
+
+#EXTINF:-1 tvg-id="HBOMundi" tvg-name="HBO Mundi" tvg-logo="" group-title="Cine",HBO Mundi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bea5da44f49a7e30d21a6e0a2fddc225:0185b209bf50e2a1b1cfd416db5177de
+https://csc-arr-edge02.sensa.com.ar/live/eds/HBOMundi/live_dash_cld/HBOMundi.mpd
+
+#EXTINF:-1 tvg-id="HBOSignature" tvg-name="HBO Signature" tvg-logo="" group-title="Cine",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf48ba89e03b41e52882a7e155facd9c:50103d8a819d4faed4e44dc6cd908066
+https://csc-arr-edge02.sensa.com.ar/live/eds/HBOSignature/live_dash_cld/HBOSignature.mpd
+
+#EXTINF:-1 tvg-id="HBOPlus" tvg-name="HBO Plus" tvg-logo="" group-title="Cine",HBO Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
+https://csc-arr-edge02.sensa.com.ar/live/eds/HBOPlus/live_dash_cld/HBOPlus.mpd
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family" tvg-logo="" group-title="Cine",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f386db42c083a82b8969064eb9907d:dc492969ce6b9cb3909a5d59a33f88da
+https://csc-arr-edge02.sensa.com.ar/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd
+
+#EXTINF:-1 tvg-id="HBOXtreme" tvg-name="HBO Xtreme" tvg-logo="" group-title="Cine",HBO Xtreme
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33d4823ed2cae55c19fa0a7c20fa4235:a64c4d55edb20046802e76332c8aa75e
+https://csc-arr-edge02.sensa.com.ar/live/eds/HBOXtreme/live_dash_cld/HBOXtreme.mpd
+
+#EXTINF:-1 tvg-id="StudioUniversal" tvg-name="Studio Universal" tvg-logo="" group-title="Cine",Studio Universal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a07b220f8f142a0ef8662ffa0adee4f:e88846d040cd157b28ffda1d44a5cf89
+https://csc-arr-edge02.sensa.com.ar/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd
+
+#EXTINF:-1 tvg-id="Universal" tvg-name="Universal" tvg-logo="" group-title="Cine",Universal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6cc36b9c3f44f37b713ad40483e085:ceaecf70b99780967d97b9eaf6e2ad5f
+https://csc-arr-edge02.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd
+
+#EXTINF:-1 tvg-id="UniCom" tvg-name="UniCom" tvg-logo="" group-title="Entretenimiento",UniCom
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94cdab8673fe231a8de57259eac5522b:1125d154649770cc122770531b8f8b30
+https://csc-arr-edge02.sensa.com.ar/live/eds/UniCom/live_dash_cld/UniCom.mpd
+
+#EXTINF:-1 tvg-id="UniCin" tvg-name="UniCin" tvg-logo="" group-title="Cine",UniCin
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a65e77fb5f2838b2f97c778cc571ac2:bc1f28b1ec619ed7da22fc9a80d3a35d
+https://csc-arr-edge02.sensa.com.ar/live/eds/UniCin/live_dash_cld/UniCin.mpd
+
+#EXTINF:-1 tvg-id="UniRea" tvg-name="UniRea" tvg-logo="" group-title="Entretenimiento",UniRea
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfbcbe656b34884d8f8dcc57d2dc51f8:d3e2c03003b443ccedd30d6442fbdd40
+https://csc-arr-edge02.sensa.com.ar/live/eds/UniRea/live_dash_cld/UniRea.mpd
+
+#EXTINF:-1 tvg-id="UniPre" tvg-name="UniPre" tvg-logo="" group-title="Entretenimiento",UniPre
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ca479ba8963f132c701eefaa0fb2b5a:bed235194da5e18108c12ef81b324a80
+https://csc-arr-edge02.sensa.com.ar/live/eds/UniPre/live_dash_cld/UniPre.mpd
+
+#EXTINF:-1 tvg-id="UniCri" tvg-name="UniCri" tvg-logo="" group-title="Entretenimiento",UniCri
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ad1cfe8edbc35b5bab1a66a5ce298b3:25794ae1df1e9908d43a102481e7d311
+https://csc-arr-edge02.sensa.com.ar/live/eds/UniCri/live_dash_cld/UniCri.mpd
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="" group-title="Documentales",History
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3729d075c1a22d06bd6978c941ff0d13:c106c6d1dd58f4f14b6ebe6c8672fd0b
+https://csc-arr-edge02.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd
+
+#EXTINF:-1 tvg-id="History2" tvg-name="History 2" tvg-logo="" group-title="Documentales",History 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=454a4c570f8b662076ce4f1a931d3b06:2e7233e228d7d8a203e07e2b08584019
+https://csc-arr-edge02.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryID" tvg-name="Discovery ID" tvg-logo="" group-title="Documentales",Discovery ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f413ca6b4955bab7d89a3d24bbf8c98b:58168613434035ceb98e18815f97436c
+https://csc-arr-edge02.sensa.com.ar/live/eds/ID/live_dash_cld/ID.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel" tvg-logo="" group-title="Documentales",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74ec986b3388c62f5fa7c551e225d0b8:9327821de5eace5508cf573778c8c3c3
+https://csc-arr-edge02.sensa.com.ar/live/eds/DiscoveryChannel/live_dash_cld/DiscoveryChannel.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo" tvg-logo="" group-title="Documentales",Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6902d50ec036d30146b12b927f4363d4:d40dc5eb6e0f8fbd58ab7dd6b91143b5
+https://csc-arr-edge02.sensa.com.ar/live/eds/DiscoveryTurbo/live_dash_cld/DiscoveryTurbo.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryTheater" tvg-name="Discovery Theater" tvg-logo="" group-title="Documentales",Discovery Theater
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a753ba6e6b313f129bd6591364680f07:f3f8e1a7633b262ca37ae8c35f3cd1e2
+https://csc-arr-edge02.sensa.com.ar/live/eds/DiscoveryTheater/live_dash_cld/DiscoveryTheater.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science" tvg-logo="" group-title="Documentales",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fcef63599e86bd9bd69644234020cd6:a82db4ee21e762bf6c734e71088511c0
+https://csc-arr-edge02.sensa.com.ar/live/eds/DiscoveryScience/live_dash_cld/DiscoveryScience.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryWorld" tvg-name="Discovery World" tvg-logo="" group-title="Documentales",Discovery World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b94901c6926870683c5baebc63496653:f04da24cd7eba6dfdd0d66ea2a2feb24
+https://csc-arr-edge02.sensa.com.ar/live/eds/DiscoveryWorld/live_dash_cld/DiscoveryWorld.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth" tvg-name="Discovery Home & Health" tvg-logo="" group-title="Documentales",Discovery Home & Health
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73f141744a7aa50a45f9819f0e5bce8b:594eff3d094876954e699d548874c58f
+https://csc-arr-edge02.sensa.com.ar/live/eds/HomeHealth/live_dash_cld/HomeHealth.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" tvg-logo="" group-title="Infantiles",Discovery Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d8b3220ac30e5c8148d4bcc225efa5a:eb6918dfe117fc405396a9c3986a0450
+https://csc-arr-edge02.sensa.com.ar/live/eds/DiscoveryKids/live_dash_cld/DiscoveryKids.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryTravelAndLiving" tvg-name="Discovery Travel & Living" tvg-logo="" group-title="Documentales",Discovery Travel & Living
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bed07c7fbbc6a3024baa8a44c052dd59:a632dead698156b3f2083076aa192b57
+https://csc-arr-edge02.sensa.com.ar/live/eds/DiscoveryTravelAndLiving/live_dash_cld/DiscoveryTravelAndLiving.mpd
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="" group-title="Deportes",ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
+https://csc-arr-edge02.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="" group-title="Deportes",ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
+https://csc-arr-edge02.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
+
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="" group-title="Deportes",ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
+https://csc-arr-edge02.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4" tvg-logo="" group-title="Deportes",ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
+https://csc-arr-edge02.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd
+
+#EXTINF:-1 tvg-id="ESPNPremium" tvg-name="ESPN Premium" tvg-logo="" group-title="Deportes",ESPN Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+https://csc-arr-edge02.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
+
+#EXTINF:-1 tvg-id="FoxSports1" tvg-name="Fox Sports 1" tvg-logo="" group-title="Deportes",Fox Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
+https://csc-arr-edge02.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
+
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" tvg-logo="" group-title="Deportes",Fox Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ec1c5620f5c1553d3238988714e71b2:b8917b12e851dfc7bb8a3b832348b3be
+https://csc-arr-edge02.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd
+
+#EXTINF:-1 tvg-id="FoxSports3" tvg-name="Fox Sports 3" tvg-logo="" group-title="Deportes",Fox Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7f87e51c56a87a59cab7ec98fd062db:c3f0d7d067e385900a0e6d4c8e406a68
+https://csc-arr-edge02.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd
+
+#EXTINF:-1 tvg-id="TYCSports" tvg-name="TYC Sports" tvg-logo="" group-title="Deportes",TYC Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+https://csc-arr-edge02.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
+
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="Entretenimiento",HGTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebc8294c36bb50fd4cc6cd89e34604bd:5d550080c8349e878fcd86821b91f74b
+https://csc-arr-edge02.sensa.com.ar/live/eds/HGTV/live_dash_cld/HGTV.mpd
+
+#EXTINF:-1 tvg-id="CineAR" tvg-name="Cine AR" tvg-logo="" group-title="Cine",Cine AR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b1d643b42908bda2927137cf3747e1a:9ccd9052a9a28c05096996e82c080eb3
+https://csc-arr-edge02.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="" group-title="Entretenimiento",Space
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
+https://csc-arr-edge02.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd
+
+#EXTINF:-1 tvg-id="AyE" tvg-name="A&E" tvg-logo="" group-title="Entretenimiento",A&E
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=736bef197ba5c73203add79c8e8d279a:7f037dc5835305f22a7206d79d4d5db2
+https://csc-arr-edge02.sensa.com.ar/live/eds/AyE/live_dash_cld/AyE.mpd
+
+#EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="" group-title="Cine",Cinecanal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acea34a4dadf7896a0280b08496d49d5:6eb61a3bf3411c64f89b594e57d487c6
+https://csc-arr-edge02.sensa.com.ar/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="Cine",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b3d89f0e099f750bab4f8c2ebc4c7ec:114313f734e7a8e84b0ca6d16bd652cb
+https://csc-arr-edge02.sensa.com.ar/live/eds/Cinemax/live_dash_cld/Cinemax.mpd
+
+#EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="" group-title="Entretenimiento",DHE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5453180074c0a8ecfe2a21e0cd5f2c1b:1150fd93492ba8609fb94d0a3087b3a5
+https://csc-arr-edge02.sensa.com.ar/live/eds/DHE/live_dash_cld/DHE.mpd
+
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="" group-title="Entretenimiento",Paramount
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89a868599af0fa0368a547da1611201e:d7be949b296decca8d6a2d535c057dc6
+https://csc-arr-edge02.sensa.com.ar/live/eds/Paramount/live_dash_cld/Paramount.mpd
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="" group-title="Cine",AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68fc78cb6fe580c35d269da87a471eb0:2bd623220a247d95d6900cea612769df
+https://csc-arr-edge02.sensa.com.ar/live/eds/AMC/live_dash_cld/AMC.mpd
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="Entretenimiento",AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828c473cb192caaba8e1d9fc63da4d75:cb600861e9822efeea5d2dbd0c157c45
+https://csc-arr-edge02.sensa.com.ar/live/eds/AXN/live_dash_cld/AXN.mpd
+
+#EXTINF:-1 tvg-id="CineFamiliar" tvg-name="Cine Familiar" tvg-logo="" group-title="Cine",Cine Familiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
+https://csc-arr-edge02.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd
+
+#EXTINF:-1 tvg-id="CineHispano" tvg-name="Cine Hispano" tvg-logo="" group-title="Cine",Cine Hispano
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3cb7320815d01cb41fdb0e9d5bd2915:7c89266b0cc60fa3419474fc96c18927
+https://csc-arr-edge02.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd
+
+#EXTINF:-1 tvg-id="CinePremium" tvg-name="Cine Premium" tvg-logo="" group-title="Cine",Cine Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
+https://csc-arr-edge02.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd
+
+#EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="" group-title="Entretenimiento",Warner
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cd16f9eade5bddab41fd3d59f804bcb:885dc93b0692e2efe37449a4a56173ef
+https://csc-arr-edge02.sensa.com.ar/live/eds/Warner/live_dash_cld/Warner.mpd
+
+#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="" group-title="Entretenimiento",Golden
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
+https://csc-arr-edge02.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd
+
+#EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="" group-title="Entretenimiento",Golden Edge
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
+https://csc-arr-edge02.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd
+
+#EXTINF:-1 tvg-id="ComCentral" tvg-name="Com Central" tvg-logo="" group-title="Entretenimiento",Com Central
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eed9a193b3c6167b823030d788d771a4:d21daeba7e513d9f3ba714deeddd0630
+https://csc-arr-edge02.sensa.com.ar/live/eds/ComCentral/live_dash_cld/ComCentral.mpd
+
+#EXTINF:-1 tvg-id="CiudadMagazine" tvg-name="Ciudad Magazine" tvg-logo="" group-title="Entretenimiento",Ciudad Magazine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
+https://csc-arr-edge02.sensa.com.ar/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="" group-title="Internacional",Telemundo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
+https://csc-arr-edge02.sensa.com.ar/live/eds/Telemundo/live_dash_cld/Telemundo.mpd
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="" group-title="Infantiles",Boomerang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf15d5a0f9329f815779d4a7dd760fbc:cd00a8a3f6a167954d4f678fab2323da
+https://csc-arr-edge02.sensa.com.ar/live/eds/Boomerang/live_dash_cld/Boomerang.mpd
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="" group-title="Infantiles",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7efe63bbf682a4124fb34c01eb7a0a7:48667511b8668df96fa3abaa623e4f69
+https://csc-arr-edge02.sensa.com.ar/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwork.mpd
+
+#EXTINF:-1 tvg-id="DisneyCh" tvg-name="Disney Channel" tvg-logo="" group-title="Infantiles",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d91b14935a3599f02e5dab71ef21dc:803e9152e9daf717b772399a97802076
+https://csc-arr-edge02.sensa.com.ar/live/eds/DisneyCh/live_dash_cld/DisneyCh.mpd
+
+#EXTINF:-1 tvg-id="DisneyJR" tvg-name="Disney Junior" tvg-logo="" group-title="Infantiles",Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18654944953b25a8b6392722a83db653:40bf6a9f05bbf0e06715ed5707f0edd2
+https://csc-arr-edge02.sensa.com.ar/live/eds/DisneyJR/live_dash_cld/DisneyJR.mpd
+
+#EXTINF:-1 tvg-id="NickJrCo" tvg-name="Nick Jr" tvg-logo="" group-title="Infantiles",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=040efb4ac8008085d09c17db602b24fa:1940b88114de13d460cb196326e638a7
+https://csc-arr-edge02.sensa.com.ar/live/eds/NickJrCo/live_dash_cld/NickJrCo.mpd
+
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="" group-title="Infantiles",Baby TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5cf6da7262ddb74c2f370ded6056f46c:78109125565ab1747f511f7e77e3bbaf
+https://csc-arr-edge02.sensa.com.ar/live/sta01/BabyTV/live_dash_cld/BabyTV.mpd
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="" group-title="Infantiles",Tooncast
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd904e04bd403cfa97b7482f3fefbea1:600f05511e9e743d8de056380e24310f
+https://csc-arr-edge02.sensa.com.ar/live/eds/Tooncast/live_dash_cld/Tooncast.mpd
+
+#EXTINF:-1 tvg-id="PakaPaka" tvg-name="Paka Paka" tvg-logo="" group-title="Infantiles",Paka Paka
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b767babf86cd94bb854084213c0ff47c:04847c6299cd7b48ebda927e957c167c
+https://csc-arr-edge02.sensa.com.ar/live/eds/PakaPaka/live_dash_cld/PakaPaka.mpd
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="Nat Geo" tvg-logo="" group-title="Documentales",Nat Geo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e44c7a4a62dc2bea573f5b21ea78342b:bf1996a534ea01086d0b8e284f0f4e7b
+https://csc-arr-edge02.sensa.com.ar/live/eds/NatGeo/live_dash_cld/NatGeo.mpd
+
+#EXTINF:-1 tvg-id="ElGarage" tvg-name="El Garage" tvg-logo="" group-title="Entretenimiento",El Garage
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad1be5752980085910010adb9d72532d:8acfaacb600b382bfe18962964355ce6
+https://csc-arr-edge02.sensa.com.ar/live/eds/ElGarage/live_dash_cld/ElGarage.mpd
+
+#EXTINF:-1 tvg-id="CanalRural" tvg-name="Canal Rural" tvg-logo="" group-title="Entretenimiento",Canal Rural
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24ecaed20225a367ad8fde9b6e826cd6:14dbfc007a3f5648d2c30075f037a830
+https://csc-arr-edge02.sensa.com.ar/live/eds/CanalRural/live_dash_cld/CanalRural.mpd
+
+#EXTINF:-1 tvg-id="SUN" tvg-name="SUN" tvg-logo="" group-title="Entretenimiento",SUN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ae7578729bde9d2f342090141103687:fb009bb37dd8fb98e2913f6b762b79e5
+https://csc-arr-edge02.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd
+
+#EXTINF:-1 tvg-id="Encuentro" tvg-name="Encuentro" tvg-logo="" group-title="Educación",Encuentro
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e6bc6cd9b600238f89d75ffb02cb852:f102949aa16d1a741d0fa30dc60f9cbd
+https://csc-arr-edge02.sensa.com.ar/live/eds/Encuentro/live_dash_cld/Encuentro.mpd
+
+#EXTINF:-1 tvg-id="Volver" tvg-name="Volver" tvg-logo="" group-title="Entretenimiento",Volver
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a7ecf0c34695dd4e253574b0b85441e:e6518e0b5dfa5e0dc268a5b16106811b
+https://csc-arr-edge02.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd
+
+#EXTINF:-1 tvg-id="MasChic" tvg-name="Mas Chic" tvg-logo="" group-title="Entretenimiento",Mas Chic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36ae8a96a35562af4c5469cad84bfe68:24eb15ff1f525103aadfabd1908ce366
+https://csc-arr-edge02.sensa.com.ar/live/eds/MasChic/live_dash_cld/MasChic.mpd
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="" group-title="Entretenimiento",Lifetime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f85d8282bb6fe2db8f34299d5742f02:28d49f409d718ecad8f82f477d3beb77
+https://csc-arr-edge02.sensa.com.ar/live/eds/Lifetime/live_dash_cld/Lifetime.mpd
+
+#EXTINF:-1 tvg-id="Eurochannel" tvg-name="Eurochannel" tvg-logo="" group-title="Internacional",Eurochannel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf1324eab263b72f5d8373a9678e6774:1375cd3390772b03b5136dce1641ba84
+https://csc-arr-edge02.sensa.com.ar/bpk-tv/Eurochannel/default/index.mpd
+
+#EXTINF:-1 tvg-id="EuropaEuropa" tvg-name="Europa Europa" tvg-logo="" group-title="Internacional",Europa Europa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01c6295e3fc98352427941dc1015605a:bac9c97340df0b813a9f08c54880feb4
+https://csc-arr-edge02.sensa.com.ar/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd
+
+#EXTINF:-1 tvg-id="PXSports" tvg-name="PX Sports" tvg-logo="" group-title="Deportes",PX Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e070a7426b8cb1cab5f63996b7bd7669:1c140e0715b26c7232942ab87d232964
+https://csc-arr-edge02.sensa.com.ar/live/sta01/PXSports/live_dash_cld/PXSports.mpd
+
+#EXTINF:-1 tvg-id="AmericaSports" tvg-name="América Sports" tvg-logo="" group-title="Deportes",América Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9a70c294ea75346b991a61c55ff1d8f:7012eb6cd752998ee5cfbe68517491f5
+https://csc-arr-edge02.sensa.com.ar/live/eds/AmericaSports/live_dash_cld/AmericaSports.mpd
+
+#EXTINF:-1 tvg-id="Deportv" tvg-name="DeporTV" tvg-logo="" group-title="Deportes",DeporTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1904c4d846a99e940903174bdbab74f0:08a4ca972cd037a1fe042515c310bfe1
+https://csc-arr-edge02.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd
+
+#EXTINF:-1 tvg-id="AdultSwim" tvg-name="Adult Swim" tvg-logo="" group-title="Entretenimiento",Adult Swim
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
+https://csc-arr-edge02.sensa.com.ar/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd
+
+#EXTINF:-1 tvg-id="TVChile" tvg-name="TV Chile" tvg-logo="" group-title="Internacional",TV Chile
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b108e54efb596e5d6403a1759deea810:781e087cf7f814fd187f74daa62d112a
+https://csc-arr-edge02.sensa.com.ar/bpk-tv/TVChile/default/TVChile.mpd
+
+#EXTINF:-1 tvg-id="CanalLuz" tvg-name="Canal Luz" tvg-logo="" group-title="Religión",Canal Luz
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43ef5f8823a35d1ac482dc48dca4c273:b535315a329dfd850082d0f441b0c463
+https://csc-arr-edge02.sensa.com.ar/live/eds/CanalLuz/live_dash_cld/CanalLuz.mpd
+
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="" group-title="Religión",EWTN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20de9c8173c1cf6d9cf22d20325e447e:58b855b048f7f5bba4ec5d47fdbe3fc9
+https://csc-arr-edge02.sensa.com.ar/live/eds/EWTN/live_dash_cld/EWTN.mpd
+
+#EXTINF:-1 tvg-id="CanalE" tvg-name="Canal E" tvg-logo="" group-title="Entretenimiento",Canal E
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
+https://csc-arr-edge02.sensa.com.ar/bpk-tv/CanalE/default/index.mpd
+
+#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="" group-title="Entretenimiento",Tlnovelas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a148b587bb34fe9ba5e752b95d0f3517:ffbe529daae86e2b6cfa025a937ff7a4
+https://csc-arr-edge02.sensa.com.ar/live/eds/Tlnovelas/live_dash_cld/Tlnovelas.mpd
+
+#EXTINF:-1 tvg-id="VePlus" tvg-name="Ve Plus" tvg-logo="" group-title="Entretenimiento",Ve Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
+https://csc-arr-edge02.sensa.com.ar/bpk-tv/VePlus/default/index.mpd
+
+#EXTINF:-1 tvg-id="Novelis" tvg-name="Novelis" tvg-logo="" group-title="Entretenimiento",Novelis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4400f758ddbddc81b7ef9a2b32251625:aa2448ebc63a5034b9b8e6e8d15f770d
+https://csc-arr-edge02.sensa.com.ar/bpk-tv/Novelis/default/index.mpd
+
+#EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" tvg-logo="" group-title="Internacional",Kanal D
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
+https://csc-arr-edge02.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd
+
+#EXTINF:-1 tvg-id="DePelicula" tvg-name="De Película" tvg-logo="" group-title="Cine",De Película
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=639e9249b63b731e7621953d27aa5393:ce09cb3f4bcad5c1febe10893b6ba491
+https://csc-arr-edge02.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd
+
+#EXTINF:-1 tvg-id="CanalInfantil" tvg-name="Canal Infantil" tvg-logo="" group-title="Infantiles",Canal Infantil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
+https://csc-arr-edge02.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd
+
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="" group-title="Infantiles",ZooMoo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=070660c4a07ab644fba62dab07306d43:6786eb56337a318fce0b7f9cccf96478
+https://csc-arr-edge02.sensa.com.ar/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd
+
+#EXTINF:-1 tvg-id="Morbido" tvg-name="Morbido" tvg-logo="" group-title="Entretenimiento",Morbido
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a48e923df0b1783bfa0e82a3c51fc20:122676906256fb0154d841936909c57b
+https://csc-arr-edge02.sensa.com.ar/bpk-tv/Morbido/default/index.mpd
+
+#EXTINF:-1 tvg-id="ClaroSports" tvg-name="Claro Sports" tvg-logo="" group-title="Deportes",Claro Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+https://csc-arr-edge02.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
+
+#EXTINF:-1 tvg-id="Vive_TV" tvg-name="Vive TV" tvg-logo="" group-title="Internacional",Vive TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
+https://csc-arr-edge02.sensa.com.ar/output/SMT4/VIVED/output.mpd
+
+#EXTINF:-1 tvg-id="PATVD" tvg-name="PATVD" tvg-logo="" group-title="Argentina",PATVD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
+https://csc-arr-edge02.sensa.com.ar/output/SMT2/CEPATVD/output.mpd
+
+
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telefe_argentina.png" group-title="Argentina",📡Telefe FULL HD
+http://190.123.90.146:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://i.imgur.com/pmJ3vVY.png" group-title="Argentina",📡El Trece FULL HD
+http://190.123.90.146:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/34FZ10u.png" tvg-group="Argentina",📡TN FULL HD
+http://190.123.90.146:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-logo="https://i.imgur.com/q3Eq9kF.png" tvg-group="Argentina",📡TV Publica FULL HD
+http://190.123.90.146:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://i.imgur.com/II0v1EW.png" tvg-group="Argentina",📡El Nueve FULL HD
+http://190.123.90.146:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS ARGENTINA.ar" tvg-logo="https://i.imgur.com/HVXciO2.png" tvg-group="Deportes",📡 FOX Sports FULL HD
+http://190.123.90.146:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS 2.ar" tvg-logo="https://i.imgur.com/dZtyngf.png" tvg-group="Deportes",📡 FOX Sports 2 FULL HD
+http://190.123.90.146:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORTS 3.ar" tvg-logo="https://i.imgur.com/OTAiaLw.png" tvg-group="Deportes",📡 FOX Sports 3 FULL HD
+http://190.123.90.146:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.imgur.com/oPH8V9c.png" group-title="Deportes",📡 ESPN Premium Argentina FULL HD
+http://190.123.90.146:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://i.imgur.com/84erChI.png" group-title="Deportes",📡 TNT Sports Argentina FULL HD
+http://190.123.90.146:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://i.imgur.com/oWO7HYq.png" group-title="Deportes",📡 ESPN FULL HD
+http://190.123.90.146:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://i.imgur.com/E0ViEEI.png" tvg-group="Deportes",📡 ESPN 2 FULL HD
+http://190.123.90.146:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://i.imgur.com/xtYhkZL.png" tvg-group="Deportes",📡 ESPN 3 FULL HD
+http://190.123.90.146:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4.ar" tvg-logo="https://i.imgur.com/5zq5y8e.png" tvg-group="Deportes",📡 ESPN 4 FULL HD
+http://190.123.90.146:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://i.imgur.com/SgHKx7r.png" group-title="Deportes",📡 ESPN 5 FULL HD
+http://190.60.40.35:12500/play/a0n7/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 6 HD.ar" tvg-logo="https://i.imgur.com/Ip8Gu2h.png" group-title="Deportes",📡 ESPN 6 FULL HD
+http://190.60.40.35:12500/play/a0er/index.m3u8
+#EXTINF:-1 tvg-id="ESPN7" tvg-logo="https://i.imgur.com/uWS2bPf.png" group-title="Deportes",📡 ESPN 7 FULL HD
+http://190.60.40.35:12500/play/a0i7/index.m3u8
+#EXTINF:-1 tvg-id="none" tvg-logo="https://i.imgur.com/oPH8V9c.png" group-title="Deportes",📡 ESPN Premium (Chile) FULL HD
+http://190.60.40.35:12500/play/a0du/index.m3u8
+
+#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/ar.xml.gz"
+#EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1730472452629.png" group-title="Películas" tvg-chno="18", Pluto TV Cine Estelar
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Películas" tvg-chno="21", Pluto TV Cine Acción
+https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-name="Estrellas de Acción" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="Películas" tvg-chno="24", Estrellas de Acción
+https://stitcher.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dcdde78f080d900098550e4" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Películas" tvg-chno="33", Pluto TV Cine Comedia
+https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dcddfcb229eff00091b6bdf" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="Películas" tvg-chno="36", Pluto TV Cine Drama
+https://stitcher.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dd7ea2aeab5230009986735" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="Películas" tvg-chno="39", Pluto TV Cine Romance
+https://stitcher.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-name="Pluto TV Cine Suspenso" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="Películas" tvg-chno="42", Pluto TV Cine Suspenso
+https://stitcher.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="624af40c004f8000079b784d" tvg-name="Pluto TV Cine Crimen" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="Películas" tvg-chno="45", Pluto TV Cine Crimen
+https://stitcher.pluto.tv/stitch/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG_1730472485648.png" group-title="Películas" tvg-chno="48", Pluto TV Cine Terror
+https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="Películas" tvg-chno="51", Pluto TV Sci-Fi
+https://stitcher.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="63eb9255c111bc0008fe6ec4" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="Series" tvg-chno="104", CSI: Miami
+https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Series" tvg-chno="108", NCIS
+https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="6479ff1c17f5e10008ad2797" tvg-name="Pluto TV Series de Acción" tvg-logo="https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png" group-title="Series" tvg-chno="125", Pluto TV Series de Acción
+https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="64ff270f30ab3300084e259c" tvg-name="Rookie Blue: Policías Novatos" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" group-title="Series" tvg-chno="127", Rookie Blue: Policías Novatos
+https://stitcher.pluto.tv/stitch/hls/channel/64ff270f30ab3300084e259c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="64ff26233efb5100082eeb2e" tvg-name="Infierno Sobre Ruedas" tvg-logo="https://images.pluto.tv/channels/64ff26233efb5100082eeb2e/colorLogoPNG.png" group-title="Series" tvg-chno="128", Infierno Sobre Ruedas
+https://stitcher.pluto.tv/stitch/hls/channel/64ff26233efb5100082eeb2e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-name="Pluto TV Series Retro" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="Retro" tvg-chno="203", Pluto TV Series Retro
+https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="631fb6be21b7440007b9f606" tvg-name="Hechizada" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="Retro" tvg-chno="211", Hechizada
+https://stitcher.pluto.tv/stitch/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="63eb95baa99571000898a078" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="Retro" tvg-chno="235", MacGyver
+https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="66a26a7846762a0008258d4e" tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png" group-title="Retro" tvg-chno="240", Baywatch
+https://stitcher.pluto.tv/stitch/hls/channel/66a26a7846762a0008258d4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" tvg-name="Los Tres Chiflados" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="Retro" tvg-chno="259", Los Tres Chiflados
+https://stitcher.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" tvg-name="Pluto TV Retro Cartoons" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="Retro" tvg-chno="265", Pluto TV Retro Cartoons
+https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-name="Pluto TV Novelas" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Novelas" tvg-chno="278", Pluto TV Novelas
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="6474a7958e3c0a0008b97cae" tvg-name="Pluto TV Novelas de Mexico" tvg-logo="https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png" group-title="Novelas" tvg-chno="305", Pluto TV Novelas de Mexico
+#EXTINF:-1 tvg-id="5e98a911c881310007d7aae2" tvg-name="MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Reality" tvg-chno="393", MTV Ridiculousness
+https://stitcher.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="620fd9f4afb9a80007a9c6d5" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="Reality" tvg-chno="395", MTV Teen Mom
+https://stitcher.pluto.tv/stitch/hls/channel/620fd9f4afb9a80007a9c6d5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="625461ef01f27a0007976ad1" tvg-name="MTV Catfish" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" group-title="Reality" tvg-chno="397", MTV Catfish
+https://stitcher.pluto.tv/stitch/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dd85eac039bba0009e86d1d" tvg-name="Pluto TV Naturaleza" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="477", Pluto TV Naturaleza
+https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5f4fed840a2764000720d966" tvg-name="Paisajes por Stingray" tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="480", Paisajes por Stingray
+https://stitcher.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-name="Pluto TV Animales" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="483", Pluto TV Animales
+https://stitcher.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="61099f2b40d0640007fc5aa2" tvg-name="El Encantador de Perros" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="486", El Encantador de Perros
+https://stitcher.pluto.tv/stitch/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5ddc266f80e3550009136843" tvg-name="Pluto TV Aventura" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="489", Pluto TV Aventura
+https://stitcher.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="62154548a2be360007cb02f0" tvg-name="Ice Pilots" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="492", Ice Pilots
+https://stitcher.pluto.tv/stitch/hls/channel/62154548a2be360007cb02f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dd6dc7480e3550009133d4a" tvg-name="Pluto TV Velocidad" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="500", Pluto TV Velocidad
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="64025592953da40008bf9238" tvg-name="Obsesión por los Autos" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="503", Obsesión por los Autos
+https://stitcher.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="656e2536fbc15b00084ae29d" tvg-name="Mi Coche Clásico" tvg-logo="https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="504", Mi Coche Clásico
+https://stitcher.pluto.tv/stitch/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="60e5ea9a9bb4200008376f76" tvg-name="Motorvision TV" tvg-logo="https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="509", Motorvision TV
+https://stitcher.pluto.tv/stitch/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-name="Pluto TV Vida Real" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="515", Pluto TV Vida Real
+https://stitcher.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="6419ab7c9189ce000865a469" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="518", COPS
+https://stitcher.pluto.tv/stitch/hls/channel/6419ab7c9189ce000865a469/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5f9992c685a2a80007fa414a" tvg-name="Dog el cazarrecompensas" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="521", Dog el cazarrecompensas
+https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5f23102d5e239d00074b092a" tvg-name="Empeños a lo bestia" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="524", Empeños a lo bestia
+https://stitcher.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5f230e416b68ff00075b0139" tvg-name="Misterios Medicos" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="542", Misterios Medicos
+https://stitcher.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-name="Pluto TV Misterios" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="545", Pluto TV Misterios
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-name="Historias de Ultratumba" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="550", Historias de Ultratumba
+https://stitcher.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="645d1abbe1979c0008779d5a" tvg-name="Archivos Extraterrestres" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="552", Archivos Extraterrestres
+https://stitcher.pluto.tv/stitch/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5de5758e1a30dc00094fcd6c" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="563", Pluto TV Historia
+https://stitcher.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dd8364ea1d6780009929902" tvg-name="Pluto TV Ciencia" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="Curiosidad" tvg-chno="572", Pluto TV Ciencia
+https://stitcher.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5dcde27ffae9520009c0c75a" tvg-name="Pluto TV Investiga" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Investigación" tvg-chno="578", Pluto TV Investiga
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="6109a9f5531b840007a4a187" tvg-name="Cazador de Homicidas" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Investigación" tvg-chno="583", Cazador de Homicidas
+https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5e67d41b93312100076f3fca" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Investigación" tvg-chno="588", Los archivos del FBI
+https://stitcher.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5efb8c19b2678b000780d032" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Investigación" tvg-chno="593", Archivos Forenses
+https://stitcher.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5ea71d48af1d0b0007d837f4" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="Investigación" tvg-chno="597", The New Detectives
+https://stitcher.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5f610042272f68000867685b" tvg-name="Misterios sin Resolver" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Investigación" tvg-chno="601", Misterios sin Resolver
+https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="5ebaccf1734aaf0007142c86" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Comedia" tvg-chno="1009", FailArmy
+https://stitcher.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="620e67a63b5e370007e06bb2" tvg-name="Chiquititas" tvg-logo="https://images.pluto.tv/channels/620e67a63b5e370007e06bb2/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="1058", Chiquititas
+https://stitcher.pluto.tv/stitch/hls/channel/620e67a63b5e370007e06bb2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#EXTINF:-1 tvg-id="63f6294449839300085c4bd2" tvg-name="Rincón de Luz" tvg-logo="https://images.pluto.tv/channels/63f6294449839300085c4bd2/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="1059", Rincón de Luz
+https://stitcher.pluto.tv/stitch/hls/channel/63f6294449839300085c4bd2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd

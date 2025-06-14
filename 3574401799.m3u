@@ -12,12 +12,16 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9bb54fccffaddd38916e85c08de98cc9":"d06f509c418eb6f1b2fc2b766445328b"}
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Telefe_Logo.svg/400px-Telefe_Logo.svg.png" group-title="Nacionales",Telefe Interior
-https://csc-arr-edge02.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
+https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e7b05c7a737b7f0a5d571b91deaa2697":"4079ac205b544b1c294ee1568906ff58"}
 #EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="Nacionales",El Trece Interior
-https://csc-arr-edge02.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
+https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd
  
 #EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://i.imgur.com/pmJ3vVY.png" group-title="Argentina",El Trece
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -81,14 +85,18 @@ https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
 https://chromecast.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd
 
 #EXTINF:-1 tvg-id="CnnEspanol.ar" tvg-name="CNN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/330px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN Español
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=718f07e2beccf40cc207365ea8a70ef6:672d59d617c4a697025be0fb8d382cc0
-https://csc-arr-edge02.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd
+https://cdn.sensa.com.ar/live/eds/CnnEspanol/live_dash_cld/CnnEspanol.mpd
 
 #EXTINF:-1 tvg-id="Cnn_Internacional" tvg-name="CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/330px-CNN.svg.png" group-title="Noticias",CNN Internacional
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16c07e6ffdddf95b34e666f9fb745eb4:adbd7d96395740ad5a389cba976e31d8
-https://csc-arr-edge02.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd
+https://cdn.sensa.com.ar/live/eds/CnnINT/live_dash_cld/CnnINT.mpd
 
 #EXTINF:-1 tvg-id="IP noticias.ar" tvg-logo="https://i.imgur.com/KjeG0Y8.jpg" tvg-group="Argentina",IP
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -127,9 +135,11 @@ https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd
 
 #EXTINF:-1 tvg-id="Vive_TV" tvg-name="Vive TV" tvg-logo="https://i.imgur.com/bfsXPcV.png" group-title="Internacional",Vive TV
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
-https://csc-arr-edge02.sensa.com.ar/output/SMT4/VIVED/output.mpd
+https://cdn.sensa.com.ar/output/SMT4/VIVED/output.mpd
 
 #EXTINF:-1 tvg-logo="https://cespalarroyito.coop/iconos/canal3.png" tvg-group="Argentina",Canal 3 Arroyito
 https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8
@@ -278,9 +288,11 @@ https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd
 https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd
 
 #EXTINF:-1 tvg-id="MTVLive" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/6Zz6QZu.png" group-title="Música",MTV Live
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=886601a4fdbcbfebacbabfebcb72a9ef:6513b2b8fda2b4d2f3d940c621e1c30e
-https://csc-arr-edge02.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd
+https://cdn.sensa.com.ar/live/eds/MTVLive/live_dash_cld/MTVLive.mpd
 
 #EXTINF:-1 tvg-id="MTV00.ar" tvg-logo="https://i.imgur.com/KezV7um.png" tvg-group="Música",MTV 00s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -314,32 +326,44 @@ https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 
 #EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" group-title="Música",Telehit
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=930f2b33864637faf2b2dab6c8d0ba92:530e6561cc4197e9eab7bf7b6f35a3ed
-https://csc-arr-edge02.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd
+https://cdn.sensa.com.ar/live/eds/Telehit/live_dash_cld/Telehit.mpd
 
 #EXTINF:-1 tvg-id="Billboard" tvg-name="Billboard" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Billboard_logo.svg/280px-Billboard_logo.svg.png" group-title="Música",Billboard
-https://csc-arr-edge02.sensa.com.ar/output/SMT1/BLBD/output.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
+https://cdn.sensa.com.ar/output/SMT1/BLBD/output.mpd
 
 #EXTINF:-1 tvg-id="MiMusicaHit" tvg-name="Mi Música Hit" tvg-logo="https://i.imgur.com/tOHTAws.png" group-title="Música",Mi Música Hit
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
-https://csc-arr-edge02.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
+https://cdn.sensa.com.ar/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd
 
 #EXTINF:-1 tvg-id="MiMusicaReggaeton" tvg-name="Mi Música Reggaeton" tvg-logo="https://i.imgur.com/8X71KZE.png" group-title="Música",Mi Música Reggaeton
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
-https://csc-arr-edge02.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd
+https://cdn.sensa.com.ar/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd
 
 #EXTINF:-1 tvg-id="MiMusicaRomantica" tvg-name="Mi Música Romántica" tvg-logo="https://i.imgur.com/v4tDY7p.png" group-title="Música",Mi Música Romántica
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
-https://csc-arr-edge02.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
+https://cdn.sensa.com.ar/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd
 
 #EXTINF:-1 tvg-id="MiMusicaKPOP" tvg-name="Mi Música KPOP" tvg-logo="" group-title="Música",Mi Música KPOP
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
-https://csc-arr-edge02.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
+https://cdn.sensa.com.ar/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"eae6c12ccab349e6ae675ab6ed8a476c":"4a4fd86ea9db4417ec86c237d3111b18"}
@@ -672,29 +696,39 @@ https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd
 https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd
 
 #EXTINF:-1 tvg-id="GOLDEN.ar" tvg-name="Golden" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden.png" group-title="Entretenimiento",Golden
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
-https://csc-arr-edge02.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd
+https://cdn.sensa.com.ar/live/eds/Golden/live_dash_cld/Golden.mpd
 
 #EXTINF:-1 tvg-id="GoldenEdge" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/640px-Golden_Edge_Logo_2020.png" group-title="Entretenimiento",Golden Edge
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
-https://csc-arr-edge02.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd
+https://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd
 
 #EXTINF:-1 tvg-id="CineFamiliar" tvg-name="Cine Familiar" tvg-logo="" group-title="Cine",Cine Familiar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
-https://csc-arr-edge02.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd
+https://cdn.sensa.com.ar/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd
 
 #EXTINF:-1 tvg-id="CineHispano" tvg-name="Cine Hispano" tvg-logo="" group-title="Cine",Cine Hispano
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3cb7320815d01cb41fdb0e9d5bd2915:7c89266b0cc60fa3419474fc96c18927
-https://csc-arr-edge02.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd
+https://cdn.sensa.com.ar/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd
 
 #EXTINF:-1 tvg-id="CinePremium" tvg-name="Cine Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="Cine",Cine Premium
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.antinaplayplus.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
-https://csc-arr-edge02.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd
+https://cdn.sensa.com.ar/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd
 
 #EXTINF:-1 tvg-id="Adult Swim.ar" tvg-logo="https://i.imgur.com/NDmVZwK.png" group-title="Entretenimiento",Adult Swim
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -806,6 +840,16 @@ https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd
 #EXTINF:-1 tvg-id="VOLVER.ar" tvg-logo="https://i.imgur.com/rnXRc6n.gif" group-title="Cine y Series",Volver HD
 https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd
 
+
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",Mundial de Clubes 1
+https://megaezztv.webcindario.com/app/mundial1.php
+
+#EXTINF:-1 tvg-id="nn.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",Mundial de Clubes 2
+https://megaezztv.webcindario.com/app/mundial2.php
+
+#EXTINF:-1 tvg-id="nn.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",Mundial de Clubes 3
+https://megaezztv.webcindario.com/app/mundial3.php
+
 #EXTINF:-1 tvg-id="DXTV.ar" tvg-logo="https://i.imgur.com/G8uuDOm.png" tvg-group="Deportes",DeporTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
@@ -817,6 +861,9 @@ https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://web.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7RHPeKo.png",Eventos TyC Sports 2
+https://smt-usr-edge02.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TYCSports" tvg-name="TYC Sports" tvg-logo="https://i.imgur.com/7RHPeKo.png" group-title="Deportes",TyC Sports Full HD
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://webclient.antinaplayplus.com.ar/
@@ -830,7 +877,7 @@ https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://web.flow.com.ar/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PL5FsFi.png",Eventos (TyC Sports 2)
 https://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
- 
+
 #EXTINF:-1 tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar" tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="Deportes",TyC Sports Internacional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
@@ -1272,3 +1319,21 @@ https://stitcher.pluto.tv/stitch/hls/channel/620e67a63b5e370007e06bb2/master.m3u
 
 #EXTINF:-1 tvg-id="63f6294449839300085c4bd2" tvg-name="Rincón de Luz" tvg-logo="https://images.pluto.tv/channels/63f6294449839300085c4bd2/colorLogoPNG.png" group-title="Entretenimiento" tvg-chno="1059", Rincón de Luz
 https://stitcher.pluto.tv/stitch/hls/channel/63f6294449839300085c4bd2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6eada77d-9a8f-11ef-a525-c2304d3b10cd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8577d81eaf33436d9f1e482360685a7c":"f608a0ac703cfaaf9442574d9a2b87fb"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://web.flow.com.ar/
+#EXTINF:-1 tvg-id="Playboy.TV.Latin.America.and.Iberia.(PLYBY).ar" tvg-logo="https://cdn.pixabay.com/photo/2012/04/26/13/58/playboy-42527_960_720.png" group-title="Adultos",Playboy HD
+https://cdn.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"34237d2ae6684ee7a011f5b9c7c43e6d":"05d973d987915120e567880f50a422af"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://web.flow.com.ar/
+#EXTINF:-1 tvg-id="Venus.International.(VENUS).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Adultos",Venus
+https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"95bd64227acf458daf7886f803d0298e":"79e28ee0ec58958bb666f9e53a0cd434"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://web.flow.com.ar/
+#EXTINF:-1 tvg-id="Sextreme.ar" tvg-logo="https://i.imgur.com/x16lWX1.png" group-title="Adultos",Sextreme
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd

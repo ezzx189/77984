@@ -1,6 +1,40 @@
 #EXTM3U refresh="0.01" url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz"
 
 
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedstreams.top
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",16hs Juventus⭐Manchester City
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedstreams.top
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",16hs Wydad AC⭐Al Ain
+https://megaezztv.webcindario.com/app/WydadAC_AlAin.php
+
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedstreams.top
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",22hs Salzburgo⭐Real Madrid
+https://megaezztv.webcindario.com/app/Salzburgo_RealMadrid.php
+
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",22hs Al Hilal⭐Pachuca
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedstreams.top
+https://megaezztv.webcindario.com/app/AlHilalPachuca.php
+
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedrun.store/
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",⭐Mundial de Clubes FULL HD (Ingles)
+https://ses.welovestroll.store/cwc-1/index.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedcanaistv.com/
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",⭐Mundial de Clubes Sportv (Brasil)
+https://embmaxtv.online/sportv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",Mundial de Clubes 1
+https://megaezztv.webcindario.com/app/mundial1.php
+
+#EXTINF:-1 tvg-id="nn.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",Mundial de Clubes 2
+https://megaezztv.webcindario.com/app/mundial2.php
+
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedrun.store/
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",⭐Mundial de Clubes 3
+https://ses.welovestroll.store/cwc-1/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 #EXTINF:-1  group-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Flow_Argentina_2020.png/revision/latest/scale-to-width-down/250?cb=20211008234630&path-prefix=es" tvg-logo="https://static.flow.com.ar/images/66/CH_LOGO/60/40/0/0/60528493072631.png" group-title="🇦🇷 FLOW" ,#️⃣  América

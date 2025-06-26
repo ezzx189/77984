@@ -865,9 +865,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Univers
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"cedd9c1a5c2ae43f80ee3197212016d6":"bf47a3c39e164a97ea6adc4c8dd57435"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://web.app.flow.com.ar/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056" group-title="Cine",Universal Reality
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd?|origin=https://portal.app.flow.com.ar/
 
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL.ar" tvg-logo="https://i.imgur.com/RmAi4Bp.png" tvg-group="Cine y Series",Paramount Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -897,20 +896,20 @@ https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd
 https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedstreams.top
-#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",16hs Borussia Dortmund⭐Ulsan Hiunday FC
-https://megaezztv.webcindario.com/app/BorussiaDortmundUlsanHiundayFC.php
-
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedstreams.top
-#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",16hs Mamelodi Sundowns⭐Fluminense
-https://megaezztv.webcindario.com/app/MamelodiSundownsFluminense.php
-
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedstreams.top
-#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",22hs Inter⭐River Plate
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",16hs Juventus⭐Manchester City
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
 
-#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",22hs Urawa Red Diamonds⭐Monterrey
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedstreams.top
-https://megaezztv.webcindario.com/app/UrawaRedDiamondsMonterrey.php
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",16hs Wydad AC⭐Al Ain
+https://megaezztv.webcindario.com/app/WydadAC_AlAin.php
+
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedstreams.top
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",22hs Salzburgo⭐Real Madrid
+https://megaezztv.webcindario.com/app/Salzburgo_RealMadrid.php
+
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",22hs Al Hilal⭐Pachuca
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedstreams.top
+https://megaezztv.webcindario.com/app/AlHilalPachuca.php
 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedrun.store/
 #EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" group-title="Deportes",⭐Mundial de Clubes FULL HD (Ingles)
@@ -1111,6 +1110,56 @@ https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #EXTINF:-1 tvg-id="TNT SPORTS.ar" tvg-logo="https://i.imgur.com/84erChI.png",TNT Sports
 https://edge-live14-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUwOTU3NDE2Iiwic2lwIjoiMTc5LjI3LjIwMC40NSIsInBhdGgiOiIvbGl2ZS9jNmVkcy9UZWxlZmVIRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDAxNDE1OWU3MmIzMGJmMCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxOTYiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.YJ-0zc7NXZmlQefxKTaBpelHoGJWgS0z_m-caaNBT0g-p4HQNkHMkK1hDKyplBo4fvA6p2nWAh5HjhfUnHvXBA==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bdfc30f2a7591e107d8c84458c395dd:dcee0d6420b6b597fba15d3c4411a71e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS" ch-number="3" type="channel",EVENTOS
+https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd?|origin=https://web.app.flow.com.py
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0900ce66b82de0fd07aa8f12a48f29a2:e5556dba688fda637374ab5c87d7cda6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS" ch-number="4" type="channel",EVENTOS 2
+https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd?|origin=https://web.app.flow.com.py
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YLjMyFx/evento30hd.png" group-title="EVENTOS" ch-number="5" type="channel",EVENTOS HD 
+https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd|origin=https://web.app.flow.com.py
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87bfded2bdfbd3ad9dce4d30b2739fd1:e80b0d66d60fa0a2d24d8b36055a6fef
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0xQZQ3/evento230hd.png" group-title="EVENTOS" ch-number="6" type="channel",EVENTOS 2 HD 
+https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc/Eventos_2_UY.mpd|origin=https://web.app.flow.com.py
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02hhVcv/evento330hd.png" group-title="EVENTOS" ch-number="7" type="channel",EVENTOS 3 HD 
+https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc/Eventos3_UY.mpd|origin=https://web.app.flow.com.py
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b2fdf5a35d01a6ac888b7e8b1a2ddad:2c088b42e71dba1c572e7f04d2934430
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02hhVcv/evento330hd.png" group-title="EVENTOS" ch-number="8" type="channel",EVENTOS 3 AR
+https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc/Eventos_3.mpd|origin=https://web.app.flow.com.py
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca50103f3285421e8be7da8c0c0e7a54:3608e92a6feddf228c1f035ebb764426
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gxdXgJ/evento430hd.png" group-title="EVENTOS" ch-number="9" type="channel",EVENTOS 4 AR
+https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc/Canal_90.mpd|origin=https://web.app.flow.com.py
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS" ch-number="1" type="channel",EVENTOS PY
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2245f48a5998442f835099d30f2e0305:f48f6ce816fe86d8c10587e9a7e927a3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS" ch-number="2" type="channel",EVENTOS 3 PY
+https://d2slu3qf332d0d.cloudfront.net/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49b2c0e7037042b2aff9f064e0bb3311:83849e30adf85440550292693147fbf7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="EVENTOS+" ch-number="1" type="channel",EVENTOS+ PY
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", 📺EVENTOS📺 (1)
 https://megaezztv.webcindario.com/app/eventos1.php

@@ -1,73 +1,34 @@
 #EXTM3U
 #EXTM3U refresh="0.01" url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz"
 
-########################## MUNDIAL DE CLUBES ##########################
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png" ,16hs Paris Saint Germain⭐Bayern Munich
-https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png" , SuperCopa⭐ Estudiantes⭐Velez
-/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd?|origin=https://web.app.flow.com.py
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png",Dsports (Todos los partidos)
-http://38.199.6.1:17001/play/a0d0/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png",Dsports (Todos los partidos)
-http://104.238.205.28:8989/278758_.m3u8 
-
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedcanaistv.com/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png",SporTV (Brasil)
-https://embmaxtv.online/sportv/tracks-v1a1/mono.ts.m3u8
-
-########################## MUNDIAL DE CLUBES ##########################
-
 ########################## EVENTOS DEPORTIVOS DEL DIA ##########################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4c79a27f46f44bfbb774b8c7f1f1e57f":"530fd0cba9dc556a339b03af4b0951b9"}
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.imgur.com/oNB2JiO.png",14.15hs Sarmiento vs Independiente
-https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BKP4/sa_live_dash_ll/TNT_SPORTS_BKP4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4c79a27f46f44bfbb774b8c7f1f1e57f":"530fd0cba9dc556a339b03af4b0951b9"}
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.imgur.com/oNB2JiO.png",16.30hs Atletico Tucuman vs San Martin SJ
-https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BKP4/sa_live_dash_ll/TNT_SPORTS_BKP4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3b6fa6524d254c96b5a101c8118d3ae6":"d5e2a9d3e2c5aa8587eada281acef6bc"}
-#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.imgur.com/oNB2JiO.png",16.30hs Independiente Rivadia vs Newell's
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.imgur.com/oNB2JiO.png",16.30hs Lanús vs Rosario Central
 https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_BKP4/sa_live_dash_ll/ESPN_PREM_BKP4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3b6fa6524d254c96b5a101c8118d3ae6":"d5e2a9d3e2c5aa8587eada281acef6bc"}
-#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.imgur.com/oNB2JiO.png",18.45hs Argentinos vs Boca
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.imgur.com/oNB2JiO.png",18.45hs Godoy Cruz vs Sarmiento
 https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_BKP4/sa_live_dash_ll/ESPN_PREM_BKP4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4c79a27f46f44bfbb774b8c7f1f1e57f":"530fd0cba9dc556a339b03af4b0951b9"}
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.imgur.com/oNB2JiO.png",21.00hs River Platense
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://i.imgur.com/oNB2JiO.png",18.45hs Platense vs Vélez
 https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS_BKP4/sa_live_dash_ll/TNT_SPORTS_BKP4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3b6fa6524d254c96b5a101c8118d3ae6":"d5e2a9d3e2c5aa8587eada281acef6bc"}
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.imgur.com/oNB2JiO.png",21.00hs Instituto vs River
+https://cdn.trimi.com.ar/live/sm-live/ESPN_PREM_BKP4/sa_live_dash_ll/ESPN_PREM_BKP4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/2025_FIFA_Club_World_Cup_3D.png/revision/latest/scale-to-width-down/250?cb=20250205224549",16hs Chelsea⭐PSG (Eventos)
-https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzMDI5ODEzIiwic2lwIjoiNDUuMjI4LjY3LjMwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL1ROVF9TcG9ydHNfSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJiODAxZDEwMWY2MDQyNDMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.M4gYOqlRNWB4IZWCmte7U5pzJ54mQyu_NIZPH2kdqwgUm08lQbLLPYUQR4hAytRwM9AAW1qKI8r6T9OOm90Hnw==/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd?|origin=https://web.app.flow.com.py
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://i.imgur.com/oNB2JiO.png",21.00hs Instituto vs River HD
+https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzMDI5ODEzIiwic2lwIjoiNDUuMjI4LjY3LjMwIiwicGF0aCI6Ii9saXZlL2M2ZWRzL1ROVF9TcG9ydHNfSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJiODAxZDEwMWY2MDQyNDMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.M4gYOqlRNWB4IZWCmte7U5pzJ54mQyu_NIZPH2kdqwgUm08lQbLLPYUQR4hAytRwM9AAW1qKI8r6T9OOm90Hnw==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd??|origin=https://web.app.flow.com.py
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/2025_FIFA_Club_World_Cup_3D.png/revision/latest/scale-to-width-down/250?cb=20250205224549",16hs Chelsea⭐PSG (Telefe)
-https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png",Dsports (Todos los partidos)
-http://38.199.6.1:17001/play/a0d0/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png",Dsports (Todos los partidos)
-http://104.238.205.28:8989/278758_.m3u8 
-
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://embedcanaistv.com/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2025_FIFA_Club_World_Cup.svg/200px-2025_FIFA_Club_World_Cup.svg.png",SporTV (Brasil)
-https://embmaxtv.online/sportv/tracks-v1a1/mono.ts.m3u8
 
 ########################## EVENTOS DEPORTIVOS DEL DIA ##########################
 

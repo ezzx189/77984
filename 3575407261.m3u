@@ -4,23 +4,34 @@
 ########################## EVENTOS DEPORTIVOS DEL DIA ##########################
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#EXTINF:-1 108" tvg-id="futbol.ar" tvg-logo="https://www.ole.com.ar/images/collections/iconos-agenda-deportiva/icon-sport-futbol___66bf97998a96290017022a4f.png",19.00hs Sarmiento vs Lanús
-https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzNTk1ODIyIiwic2lwIjoiMTc5LjI3LjIwMC40NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDM0MWYyNjQ3OGFlNGUyYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.attKG_bPzpm3gmeyTtAKwH4xfNEAToKXKYnDosaJarsnoiTAvCTJLes7il5MweaunIE_6eQmD2cGJukZBA07gw==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd??|origin=https://web.app.flow.com.py
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#EXTINF:-1 109" tvg-id="TNT Sports.ar" tvg-logo="https://www.ole.com.ar/images/collections/iconos-agenda-deportiva/icon-sport-futbol___66bf97998a96290017022a4f.png",21.15hs Unión vs Tigre
+#EXTINF:-1 109" tvg-id="TNT Sports.ar" tvg-logo="https://www.ole.com.ar/images/collections/iconos-agenda-deportiva/icon-sport-futbol___66bf97998a96290017022a4f.png",14.30hs Aldosivi vs Newell's Old Boys
 https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzNTk1ODIyIiwic2lwIjoiMTc5LjI3LjIwMC40NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDM0MWYyNjQ3OGFlNGUyYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.attKG_bPzpm3gmeyTtAKwH4xfNEAToKXKYnDosaJarsnoiTAvCTJLes7il5MweaunIE_6eQmD2cGJukZBA07gw==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd?|origin=https://web.app.flow.com.py
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#EXTINF:-1 108" tvg-id="futbol.ar" tvg-logo="https://www.ole.com.ar/images/collections/iconos-agenda-deportiva/icon-sport-futbol___66bf97998a96290017022a4f.png",21.15hs Independiente Riv. vs Belgrano
+#EXTINF:-1 108" tvg-id="futbol.ar" tvg-logo="https://www.ole.com.ar/images/collections/iconos-agenda-deportiva/icon-sport-futbol___66bf97998a96290017022a4f.png",16.45hs Rosario Central vs San Martín (SJ)
 https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzNTk1ODIyIiwic2lwIjoiMTc5LjI3LjIwMC40NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDM0MWYyNjQ3OGFlNGUyYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.attKG_bPzpm3gmeyTtAKwH4xfNEAToKXKYnDosaJarsnoiTAvCTJLes7il5MweaunIE_6eQmD2cGJukZBA07gw==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd??|origin=https://web.app.flow.com.py
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#EXTINF:-1 108" tvg-id="futbol.ar" tvg-logo="https://www.ole.com.ar/images/collections/iconos-agenda-deportiva/icon-sport-futbol___66bf97998a96290017022a4f.png",19.00hs Vélez Sarsfield vs Instituto
+https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzNTk1ODIyIiwic2lwIjoiMTc5LjI3LjIwMC40NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDM0MWYyNjQ3OGFlNGUyYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.attKG_bPzpm3gmeyTtAKwH4xfNEAToKXKYnDosaJarsnoiTAvCTJLes7il5MweaunIE_6eQmD2cGJukZBA07gw==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd??|origin=https://web.app.flow.com.py
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#EXTINF:-1 109" tvg-id="TNT Sports.ar" tvg-logo="https://www.ole.com.ar/images/collections/iconos-agenda-deportiva/icon-sport-futbol___66bf97998a96290017022a4f.png",19.00hs Platense vs Argentinos Jrs
+https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzNTk1ODIyIiwic2lwIjoiMTc5LjI3LjIwMC40NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDM0MWYyNjQ3OGFlNGUyYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.attKG_bPzpm3gmeyTtAKwH4xfNEAToKXKYnDosaJarsnoiTAvCTJLes7il5MweaunIE_6eQmD2cGJukZBA07gw==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd?|origin=https://web.app.flow.com.py
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#EXTINF:-1 109" tvg-id="TNT Sports.ar" tvg-logo="https://www.ole.com.ar/images/collections/iconos-agenda-deportiva/icon-sport-futbol___66bf97998a96290017022a4f.png",21.15hs Racing Club vs Estudiantes (LP)
+https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzUzNTk1ODIyIiwic2lwIjoiMTc5LjI3LjIwMC40NSIsInBhdGgiOiIvbGl2ZS9jN2Vkcy9UeUNTcG9ydC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMDM0MWYyNjQ3OGFlNGUyYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.attKG_bPzpm3gmeyTtAKwH4xfNEAToKXKYnDosaJarsnoiTAvCTJLes7il5MweaunIE_6eQmD2cGJukZBA07gw==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd?|origin=https://web.app.flow.com.py
 
 
 ########################## EVENTOS DEPORTIVOS DEL DIA ##########################

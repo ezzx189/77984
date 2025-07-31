@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTM3U refresh="0.01" url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz"
 
+############ partidos ########
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://www.ole.com.ar/images/collections/iconos-agenda-deportiva/icon-sport-futbol___66bf97998a96290017022a4f.png", 21.10hs Aldosivi vs Argentinos Juniors
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tyceventos&token=3575416616
+
+########## eventos #########
+
 ################## FLOW #############################
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -344,6 +352,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntnovelastrimi&token=35754
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellas&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92c3a3d9f95b475e9dde2e96fc0fb488:12c3659a8ae6018dba67cb5eda213c7d
+#EXTINF:-1 605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",Canal De Las Estrellas (2)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellaslasestrellastrimi&token=3575416616
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9393321daef1463fc7e2e060298db852:be6bc91e17816f67e62596bed463c5ad
 #EXTINF:-1 127" tvg-id="[PXSP] PX Sports" tvg-name="PX Sports" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/160/160/0/0/70671934073582.png",PX Sports
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=pxsports&token=3575416616
@@ -371,36 +384,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espniptv&token=3575416616
 
 #EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",FOX Sports (+10MB)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportsiptv&token=3575416616
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-#EXTINF:-1 111" tvg-id="FOX Sports HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",FOX Sports
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports&token=3575416616
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 111" tvg-id="FOX Sports HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",FOX Sports (2)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3575416616
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
-#EXTINF:-1 112" tvg-id="FOX Sports 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png",FOX Sports 2
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports2&token=3575416616
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb87b63bd6ea4005b66b41cdaca7ba9b:bb54f7132fb47d804723ec429ef65c81
-#EXTINF:-1 112" tvg-id="FOX Sports 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png",FOX Sports 2 (2)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports2trimi&token=3575416616
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
-#EXTINF:-1 113" tvg-id="FOX Sports 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png",FOX Sports 3
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports3&token=3575416616
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2c3554c2f9540849031439326cce8e9:f97391f9e36f6f33eed844ebaab72a8f
-#EXTINF:-1 113" tvg-id="FOX Sports 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png",FOX Sports 3 (2)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports3trimi&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
@@ -450,6 +433,36 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=357541
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports Internacional
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportsinter&token=3575416616&token=3575416616
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+#EXTINF:-1 111" tvg-id="FOX Sports HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",FOX Sports
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports&token=3575416616
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
+#EXTINF:-1 111" tvg-id="FOX Sports HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",FOX Sports (2)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3575416616
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+#EXTINF:-1 112" tvg-id="FOX Sports 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png",FOX Sports 2
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports2&token=3575416616
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb87b63bd6ea4005b66b41cdaca7ba9b:bb54f7132fb47d804723ec429ef65c81
+#EXTINF:-1 112" tvg-id="FOX Sports 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png",FOX Sports 2 (2)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports2trimi&token=3575416616
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+#EXTINF:-1 113" tvg-id="FOX Sports 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png",FOX Sports 3
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports3&token=3575416616
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2c3554c2f9540849031439326cce8e9:f97391f9e36f6f33eed844ebaab72a8f
+#EXTINF:-1 113" tvg-id="FOX Sports 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png",FOX Sports 3 (2)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports3trimi&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
@@ -1030,3 +1043,5 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=somoscorrientes&token=35754
 #KODIPROP:inputstream.adaptive.license_key=dde29700ee0423e1afe3828c6f251295:1928b62bc191bd26c357137d7d909868
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png"  ,Canal 9 Chaco
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=canal9chaco&token=3575416616
+
+

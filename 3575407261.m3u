@@ -4,7 +4,12 @@
 ############ partidos ########
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://www.ole.com.ar/images/collections/iconos-agenda-deportiva/icon-sport-futbol___66bf97998a96290017022a4f.png", 21.10hs Aldosivi vs Argentinos Juniors
+#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png", 18.15hs Belgrano vs Independiente
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tyceventos&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png", 20.45hs Lanús vs Huracán
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tyceventos&token=3575407261
 
 ########## eventos #########
@@ -354,7 +359,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellas&token=35754072
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92c3a3d9f95b475e9dde2e96fc0fb488:12c3659a8ae6018dba67cb5eda213c7d
 #EXTINF:-1 605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",Canal De Las Estrellas (2)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellaslasestrellastrimi&token=3575407261
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellastrimi&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9393321daef1463fc7e2e060298db852:be6bc91e17816f67e62596bed463c5ad

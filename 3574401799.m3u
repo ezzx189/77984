@@ -2,14 +2,25 @@
 #EXTM3U refresh="0.01" url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz"
 
 ############ partidos ########
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/120px-F1.svg.png", 11.00hs GP de Hungría: Clasificación
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=f1tvcluboficial&token=3574401799
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png", 18.15hs Belgrano vs Independiente
+#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png", 16.45hs San Lorenzo vs Tigre
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tyceventos&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png", 20.45hs Lanús vs Huracán
+#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AppleTVLogo.png", 20.00hs Inter Miami vs Necaxa
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventosmls&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png", 21.10hs San Martín vs River Plate
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tyceventos&token=3574401799
 
 ########## eventos #########

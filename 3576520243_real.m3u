@@ -3,15 +3,7 @@
 
 ############ partidos ########
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/120px-F1.svg.png", 10.00hs GP de Hungría: Carrera
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3576520243
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8
-#EXTINF:-1 tvg-id="tyc" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png", 16.00hs Racing vs Dep. Riestra
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=3576520243
 
 ########## eventos #########
 

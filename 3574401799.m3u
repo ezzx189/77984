@@ -74,39 +74,45 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=eldoce&token=3574401799
 #EXTINF:-1 tvg-id="Telefe Cordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png",Telefe Córdoba
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=telefecba&token=3574401799
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/99n8KYE.png",Canal 3 Arroyito
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=canal3arro&token=3574401799
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Logo_de_Canal_13Max_Corrientes.png/500px-Logo_de_Canal_13Max_Corrientes.png", 13Max Corrientes
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=13maxcorrientes&token=3574401799
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-#EXTINF:-1 tvg-id="America 24.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png" tvg-group="Canales Flow", A24
+#EXTINF:-1 tvg-id="America 24.uy" tvg-name="AME24" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png", A24
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=america24&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-#EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" tvg-group="Canales Flow", C5N
+#EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png", C5N
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=c5n&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-#EXTINF:-1 tvg-id="Canal 26.uy" tvg-name="CAN26" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" tvg-group="Canales Flow", Canal 26
+#EXTINF:-1 tvg-id="Canal 26.uy" tvg-name="CAN26" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png", Canal 26
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=canal26&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-#EXTINF:-1 tvg-id="Cronica TV.uy" tvg-name="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" tvg-group="Canales Flow", Crónica
+#EXTINF:-1 tvg-id="Cronica TV.uy" tvg-name="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png", Crónica
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=cronica&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f37298e504974d279d241a77fd872620:866fcb859136415b83960cda9863d445
-#EXTINF:-1 tvg-id="Cronica TV.uy" tvg-name="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" tvg-group="Canales Flow", Crónica (2)
+#EXTINF:-1 tvg-id="Cronica TV.uy" tvg-name="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png", Crónica (2)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=cronicatrimi&token=3574401799&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-#EXTINF:-1 tvg-id="La Nacion.uy" tvg-name="LNAC+" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" tvg-group="Canales Flow", La Nación +
+#EXTINF:-1 tvg-id="La Nacion.uy" tvg-name="LNAC+" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png", La Nación +
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=lanacion&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ca7e4a4a0314d15bad3b2066b4f1b30:bc77f956816ee72f9e02f8d43fee43c5
-#EXTINF:-1 tvg-id="La Nacion.uy" tvg-name="LNAC+" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png" tvg-group="Canales Flow", La Nación + (2)
+#EXTINF:-1 tvg-id="La Nacion.uy" tvg-name="LNAC+" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png", La Nación + (2)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=lanaciontrimi&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -121,7 +127,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=ipnoticiastrimi&token=35744
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-#EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" tvg-group="Canales Flow", TN
+#EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png", TN
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tn&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

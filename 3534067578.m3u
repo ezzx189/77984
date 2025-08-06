@@ -3,7 +3,10 @@
 
 ############ partidos ########
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/250px-MLS_crest_logo_RGB_gradient.svg.png",20.30hs Inter Miami vs Pumas UNAM
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventosmls&token=3534067578
 
 ########## eventos #########
 

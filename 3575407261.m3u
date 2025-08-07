@@ -4,9 +4,25 @@
 ############ partidos ########
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/250px-MLS_crest_logo_RGB_gradient.svg.png",20.30hs Inter Miami vs Pumas UNAM
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventosmls&token=3575407261
+#KODIPROP:inputstream.adaptive.license_key={"94c9e4d22b7f59008100540395ab6071":"c85679667e247d4cf9ae07cdd5b64655","80dbb7714eb45b3588d3c3504fc54407":"8aaf77ed374e01283c5f9eed5fc0b0e5","d69ab8fc784f513686a121b69f085b5c":"945cfe61e4c2c7bc490d6c753edca557"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xBRKC1M/Logo-de-la-Liga-Profesional-de-F-tbol-de-Argentina-svg.png",17.00hs Godoy Cruz vs Gimnasia La Plata
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"32a676e28a33590b94a6e498ad83b486":"e74d3a490e83035ba4fb62d90f78d30a","6fc46152f5f95fbd9b5cd86ca70ec8cc":"9215c3144ef88413f858196d9b79198f","20977c2237e3511793cb731c41f513ad":"e6fa8f27b510bef16d0c6c0c43eb112e"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xBRKC1M/Logo-de-la-Liga-Profesional-de-F-tbol-de-Argentina-svg.png",19.00hs San Lorenzo vs Vélez Sarsfield
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"94c9e4d22b7f59008100540395ab6071":"c85679667e247d4cf9ae07cdd5b64655","80dbb7714eb45b3588d3c3504fc54407":"8aaf77ed374e01283c5f9eed5fc0b0e5","d69ab8fc784f513686a121b69f085b5c":"945cfe61e4c2c7bc490d6c753edca557"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xBRKC1M/Logo-de-la-Liga-Profesional-de-F-tbol-de-Argentina-svg.png",21.00hs Estudiantes de La Plata vs Independiente Rivadavia
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3575407261
 
 ########## eventos #########
 

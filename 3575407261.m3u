@@ -24,6 +24,13 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xBRKC1M/Logo-de-la-Liga-Profesional-de-F-tbol-de-Argentina-svg.png",20.00hs Argentinos vs Unión
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3575407261
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"32a676e28a33590b94a6e498ad83b486":"e74d3a490e83035ba4fb62d90f78d30a","6fc46152f5f95fbd9b5cd86ca70ec8cc":"9215c3144ef88413f858196d9b79198f","20977c2237e3511793cb731c41f513ad":"e6fa8f27b510bef16d0c6c0c43eb112e"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/250px-MLS_crest_logo_RGB_gradient.svg.png",21.00hs Orlando City vs Inter Miami
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3575407261
+
 ########## eventos #########
 
 ################## FLOW #############################

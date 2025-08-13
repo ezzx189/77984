@@ -5,17 +5,17 @@
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 111" tvg-id="FOX Sports HD.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",19hs Cerro Porteño vs Estudiantes LP
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",19hs Cerro Porteño vs Estudiantes LP
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3576520243
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 111" tvg-id="FOX Sports HD.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",21hs Flamengo vs Internacional
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",21hs Flamengo vs Internacional
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3576520243
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8
-#EXTINF:-1 114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/CA_2022.png/revision/latest?cb=20230807035650&path-prefix=es",19.30hs Atlético Tucumán vs Newells
+#EXTINF:-1 tvg-name="TyC Sports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/CA_2022.png/revision/latest?cb=20230807035650&path-prefix=es",19.30hs Atlético Tucumán vs Newells
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=3576520243
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20wcJs7S/copa-sulamericana-logo1-1.png",19hs Bolívar vs Cienciano

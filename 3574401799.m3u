@@ -5,18 +5,34 @@
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 111" tvg-id="FOX Sports HD.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",19hs Fortaleza vs Vélez
+#EXTINF:-1 111" tvg-id="FOX Sports HD.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",19hs Cerro Porteño vs Estudiantes LP
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3574401799
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb87b63bd6ea4005b66b41cdaca7ba9b:bb54f7132fb47d804723ec429ef65c81
-#EXTINF:-1 112" tvg-id="FOX Sports 2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",21.30hs Atlético Nacional vs Sao Paulo
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports2trimi&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 111" tvg-id="FOX Sports HD.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",21.30hs Peñarol vs Racing
+#EXTINF:-1 111" tvg-id="FOX Sports HD.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",21hs Flamengo vs Internacional
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8
+#EXTINF:-1 114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/CA_2022.png/revision/latest?cb=20230807035650&path-prefix=es",19.30hs Atlético Tucumán vs Newells
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=3574401799
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20wcJs7S/copa-sulamericana-logo1-1.png",19hs Bolívar vs Cienciano
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos-dsn-dtv&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20wcJs7S/copa-sulamericana-logo1-1.png",21.30hs Universidad de Chile vs Independiente
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3574401799
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20wcJs7S/copa-sulamericana-logo1-1.png",21.30hs Alianza Lima vs Universidad Católica (Ecu)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos-dsn-dtv&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1272.png",16hs PSG vs Tottenham Hotspur
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3574401799
 
 ########## eventos #########
 

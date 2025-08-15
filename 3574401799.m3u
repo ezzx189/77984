@@ -4,32 +4,37 @@
 ############ partidos ########
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",19hs Botafogo vs Liga de Quito
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3574401799
+#KODIPROP:inputstream.adaptive.license_key={"32a676e28a33590b94a6e498ad83b486":"e74d3a490e83035ba4fb62d90f78d30a","6fc46152f5f95fbd9b5cd86ca70ec8cc":"9215c3144ef88413f858196d9b79198f","20977c2237e3511793cb731c41f513ad":"e6fa8f27b510bef16d0c6c0c43eb112e"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",15.30hs Aldosivi vs Belgrano
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",21.30hs Libertad vs River Plate
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3574401799
+#KODIPROP:inputstream.adaptive.license_key={"94c9e4d22b7f59008100540395ab6071":"c85679667e247d4cf9ae07cdd5b64655","80dbb7714eb45b3588d3c3504fc54407":"8aaf77ed374e01283c5f9eed5fc0b0e5","d69ab8fc784f513686a121b69f085b5c":"945cfe61e4c2c7bc490d6c753edca557"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",19hs Instituto vs Unión
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=93f2e70d452d4fc2ae0c477ca66b29be:b204d146d7f369bc3c5a87acfcfb6532
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",21.30hs Libertad vs River Plate
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=telefetrimi&token=3574401799
+#KODIPROP:inputstream.adaptive.license_key={"32a676e28a33590b94a6e498ad83b486":"e74d3a490e83035ba4fb62d90f78d30a","6fc46152f5f95fbd9b5cd86ca70ec8cc":"9215c3144ef88413f858196d9b79198f","20977c2237e3511793cb731c41f513ad":"e6fa8f27b510bef16d0c6c0c43eb112e"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",21hs Racing vs Tigre
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3574401799
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/ConmebolLibertadores.png/revision/latest?cb=20210328140546&path-prefix=es",21.30hs Universitario vs Palmeiras
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports2trimi&token=3574401799
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6d243ebd7a57bea4b4b052ae13f4c051":"5c1925879de873d43b7c25925902539b"}
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/225-2258555_premier-league-logo-png.png",⚡16hs Liverpool vs Bournemouth
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20wcJs7S/copa-sulamericana-logo1-1.png",19hs Atlético Mineiro vs Godoy Cruz
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/225-2258555_premier-league-logo-png.png",16hs Liverpool vs Bournemouth
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3574401799
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20wcJs7S/copa-sulamericana-logo1-1.png",21.30hs Central Córdoba SDE vs Lanús
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos-dsn-dtv&token=3574401799
 
 ########## eventos #########
 
@@ -520,15 +525,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=showsports&token=3574401799
 #EXTINF:-1 124" tvg-id="El Garage Tv.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1481/CH_LOGO/160/160/0/0/3411412507358.png",Garage TV
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=garagetv&token=3574401799
 
-#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="Deportes",TyC Sports (+10MB)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportsiptv&token=3574401799
-
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN (+10MB)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espniptv&token=3574401799
-
-#EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",FOX Sports (+10MB)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportsiptv&token=3574401799
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
@@ -629,6 +625,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports3trimi&token=35744
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3574401799
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6d243ebd7a57bea4b4b052ae13f4c051":"5c1925879de873d43b7c25925902539b"}
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN 1 (Sensa)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3574401799
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
@@ -720,6 +721,15 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos2&token=3574401799
 #KODIPROP:inputstream.adaptive.license_key=f774b06a300783596f27b552226de9c0:4d6256b28b487bcf906bcf0328635747
 #EXTINF:-1 143" tvg-id="Eventos3.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true",Eventos 3
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos3&token=3574401799
+
+#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="Deportes",TyC Sports (+10MB)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportsiptv&token=3574401799
+
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN (+10MB)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espniptv&token=3574401799
+
+#EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png",FOX Sports (+10MB)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportsiptv&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15

@@ -30,6 +30,10 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",⚡20.30hs Vélez vs Independiente
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3576520243
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/250px-MLS_crest_logo_RGB_gradient.svg.png",⚡20.30hs Inter Miami vs Los Angeles Galaxy
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventosmls&token=3576520243
+
 ########## eventos #########
 
 ################## FLOW #############################
@@ -101,7 +105,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=mixtv&token=3576520243
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=eldoce&token=3576520243
 
 #EXTINF:-1 tvg-id="Canal 12.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png",El Doce (2)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eldocesensa&token=3576520243
+https://broker.cdn.rcs.net.ar/iptelva/ch12cba/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"103ce214b4d04c8eb4dd43670e956dad":"20e030576b8dc4df0d1c68e16af3bc0f"}

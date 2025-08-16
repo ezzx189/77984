@@ -4,38 +4,32 @@
 ############ partidos ########
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"32a676e28a33590b94a6e498ad83b486":"e74d3a490e83035ba4fb62d90f78d30a","6fc46152f5f95fbd9b5cd86ca70ec8cc":"9215c3144ef88413f858196d9b79198f","20977c2237e3511793cb731c41f513ad":"e6fa8f27b510bef16d0c6c0c43eb112e"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",15.30hs Aldosivi vs Belgrano
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3534067578
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"94c9e4d22b7f59008100540395ab6071":"c85679667e247d4cf9ae07cdd5b64655","80dbb7714eb45b3588d3c3504fc54407":"8aaf77ed374e01283c5f9eed5fc0b0e5","d69ab8fc784f513686a121b69f085b5c":"945cfe61e4c2c7bc490d6c753edca557"}
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",19hs Instituto vs Unión
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",⚡14.15hs Platense vs San Lorenzo
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"32a676e28a33590b94a6e498ad83b486":"e74d3a490e83035ba4fb62d90f78d30a","6fc46152f5f95fbd9b5cd86ca70ec8cc":"9215c3144ef88413f858196d9b79198f","20977c2237e3511793cb731c41f513ad":"e6fa8f27b510bef16d0c6c0c43eb112e"}
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",21hs Racing vs Tigre
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",⚡16.15hs Huracán vs Argentinos Jrs
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3534067578
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6d243ebd7a57bea4b4b052ae13f4c051":"5c1925879de873d43b7c25925902539b"}
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/225-2258555_premier-league-logo-png.png",⚡16hs Liverpool vs Bournemouth
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3534067578
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"32a676e28a33590b94a6e498ad83b486":"e74d3a490e83035ba4fb62d90f78d30a","6fc46152f5f95fbd9b5cd86ca70ec8cc":"9215c3144ef88413f858196d9b79198f","20977c2237e3511793cb731c41f513ad":"e6fa8f27b510bef16d0c6c0c43eb112e"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",⚡18.30hs Rosario Central vs Dep. Riestra
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/full/225-2258555_premier-league-logo-png.png",16hs Liverpool vs Bournemouth
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3534067578
-
+#KODIPROP:inputstream.adaptive.license_key={"94c9e4d22b7f59008100540395ab6071":"c85679667e247d4cf9ae07cdd5b64655","80dbb7714eb45b3588d3c3504fc54407":"8aaf77ed374e01283c5f9eed5fc0b0e5","d69ab8fc784f513686a121b69f085b5c":"945cfe61e4c2c7bc490d6c753edca557"}
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",⚡20.30hs Vélez vs Independiente
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3534067578
 ########## eventos #########
 
 ################## FLOW #############################
@@ -105,6 +99,9 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=mixtv&token=3534067578
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
 #EXTINF:-1 tvg-id="Canal 12.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png",El Doce
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=eldoce&token=3534067578
+
+#EXTINF:-1 tvg-id="Canal 12.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png",El Doce (2)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eldocesensa&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"103ce214b4d04c8eb4dd43670e956dad":"20e030576b8dc4df0d1c68e16af3bc0f"}

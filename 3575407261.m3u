@@ -4,18 +4,23 @@
 ############ partidos ########
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"94c9e4d22b7f59008100540395ab6071":"c85679667e247d4cf9ae07cdd5b64655","80dbb7714eb45b3588d3c3504fc54407":"8aaf77ed374e01283c5f9eed5fc0b0e5","d69ab8fc784f513686a121b69f085b5c":"945cfe61e4c2c7bc490d6c753edca557"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",⚡19hs Sarmiento vs Atl. Tucumán
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3575407261
+#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
+#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/613px-Copa_Libertadores_logo.svg.png",⚡19hs Vélez vs Fortaleza
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"32a676e28a33590b94a6e498ad83b486":"e74d3a490e83035ba4fb62d90f78d30a","6fc46152f5f95fbd9b5cd86ca70ec8cc":"9215c3144ef88413f858196d9b79198f","20977c2237e3511793cb731c41f513ad":"e6fa8f27b510bef16d0c6c0c43eb112e"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_LPF_AFA.svg/500px-Logo_LPF_AFA.svg.png",⚡21hs Talleres vs  San Martín
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3575407261
+#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
+#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/613px-Copa_Libertadores_logo.svg.png",⚡21.30hs Racing vs Peñarol
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3575407261
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb87b63bd6ea4005b66b41cdaca7ba9b:bb54f7132fb47d804723ec429ef65c81
+#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/613px-Copa_Libertadores_logo.svg.png",⚡21.30hs Sao Paulo vs Atlético Nacional
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports2trimi&token=3575407261
+
+#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/629px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",⚡16hs Real Madrid vs Osasuna
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos-dsn-dtv&token=3575407261
 
 ########## eventos #########
 

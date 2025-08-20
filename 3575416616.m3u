@@ -5,21 +5,15 @@
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/613px-Copa_Libertadores_logo.svg.png",⚡19hs Vélez vs Fortaleza
+#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/613px-Copa_Libertadores_logo.svg.png",⚡19hs Estudiantes LP vs Cerro Porteño
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/613px-Copa_Libertadores_logo.svg.png",⚡21.30hs Racing vs Peñarol
+#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/613px-Copa_Libertadores_logo.svg.png",⚡21.30hs Internacional vs Flamengo
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3575416616
 
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb87b63bd6ea4005b66b41cdaca7ba9b:bb54f7132fb47d804723ec429ef65c81
-#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/613px-Copa_Libertadores_logo.svg.png",⚡21.30hs Sao Paulo vs Atlético Nacional
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports2trimi&token=3575416616
-
-#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/629px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",⚡16hs Real Madrid vs Osasuna
+#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/CONMEBOL_Sudamericana_logo_%282017%29.svg/330px-CONMEBOL_Sudamericana_logo_%282017%29.svg.png",⚡21.30hs Independiente vs U. de Chile
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos-dsn-dtv&token=3575416616
 
 ########## eventos #########
@@ -31,10 +25,10 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos-dsn-dtv&token=35754
 #EXTINF:-1 tvg-id="america tv.ar" tvg-name="America.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png", America
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=america&token=3575416616
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-#EXTINF:-1 tvg-id="El Trece.ar" tvg-name="Canal 13.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png", El Trece
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eltrece&token=3575416616
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e7b05c7a737b7f0a5d571b91deaa2697":"4079ac205b544b1c294ee1568906ff58"}
+#EXTINF:-1 tvg-id="El Trece.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png",El Trece (Interior)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eltrecesensa&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e88815a08b44c73a191161d3c15d890:9193a6d29f77bd651b9277f8f70b61b5
@@ -91,9 +85,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=mixtv&token=3575416616
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
 #EXTINF:-1 tvg-id="Canal 12.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png",El Doce
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=eldoce&token=3575416616
-
-#EXTINF:-1 tvg-id="Canal 12.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png",El Doce (2)
-https://broker.cdn.rcs.net.ar/iptelva/ch12cba/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"103ce214b4d04c8eb4dd43670e956dad":"20e030576b8dc4df0d1c68e16af3bc0f"}

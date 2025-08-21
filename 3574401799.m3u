@@ -1,23 +1,6 @@
 #EXTM3U
 #EXTM3U refresh="0.01" url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz"
 
-############ partidos ########
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/613px-Copa_Libertadores_logo.svg.png",⚡19hs Estudiantes LP vs Cerro Porteño
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3574401799
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/613px-Copa_Libertadores_logo.svg.png",⚡21.30hs Internacional vs Flamengo
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3574401799
-
-#EXTINF:-1 111" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/CONMEBOL_Sudamericana_logo_%282017%29.svg/330px-CONMEBOL_Sudamericana_logo_%282017%29.svg.png",⚡21.30hs Independiente vs U. de Chile
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos-dsn-dtv&token=3574401799
-
-########## eventos #########
-
 ################## FLOW #############################
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

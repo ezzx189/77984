@@ -462,16 +462,15 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellas&token=35764761
 #EXTINF:-1 605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",Canal De Las Estrellas (2)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellastrimi&token=3576476147
 
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/leagues_cup-logo_brandlogos.net_gxi1m.png",21.30 Inter Miami vs Orlando City | Leagues Cup
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventosmls&token=3576476147
-
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/02/leagues_cup-logo_brandlogos.net_gxi1m.png",23.45 LA Galaxy vs Seattle Sounders | Leagues Cup
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventosmls&token=3576476147
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c88dc6c668cac3b468d4a4c7e176ff3d":"1aeb739de2c14ed0ad658ca8043208d8"}
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/ezzxg/thelgman@main/latest.png",Sky Sports La Liga
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=skylaliga&token=3576476147
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Copa_Argentina.jpg/960px-Copa_Argentina.jpg",21.15hs Unión vs River Plate
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=3576476147
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
@@ -632,7 +631,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
 #EXTINF:-1 127" tvg-id="[PXSP] PX Sports" tvg-name="PX Sports" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/160/160/0/0/70671934073582.png",PX Sports
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=pxsports&token=3576476147
-pxsports
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/

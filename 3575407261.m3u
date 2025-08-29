@@ -496,6 +496,22 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsmm&token=3575407261
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=f1dazn-mm&token=3575407261
 
+### PARTIDOS ARG ####
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-id="Banfield vs Tigre" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",19.00hs Banfield vs Tigre
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+#EXTINF:-1 tvg-id="Newell's Old Boys vs Barracas Central" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",19.00hs Newell's Old Boys vs Barracas Central
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+#EXTINF:-1 tvg-id="Instituto vs Independiente" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",21.15hs Instituto vs Independiente
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3575407261
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/

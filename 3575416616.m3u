@@ -468,11 +468,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellastrimi&token=357
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=skylaliga&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Copa_Argentina.jpg/960px-Copa_Argentina.jpg",21.15hs Unión vs River Plate
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=3575416616
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
@@ -491,11 +486,15 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=357541
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports Internacional
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportsinter&token=3575416616
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png",Dsports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",Dsports
 #KODIPROP:inputstream.adaptive.license_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsmm&token=3575416616
 
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/f1.png",Formula 1 TV (F1) HD
+#KODIPROP:inputstream.adaptive.license_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=f1dazn-mm&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34

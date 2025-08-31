@@ -487,18 +487,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/o
 #KODIPROP:inputstream.adaptive.license_key={"94c9e4d22b7f59008100540395ab6071":"c85679667e247d4cf9ae07cdd5b64655","80dbb7714eb45b3588d3c3504fc54407":"8aaf77ed374e01283c5f9eed5fc0b0e5","d69ab8fc784f513686a121b69f085b5c":"945cfe61e4c2c7bc490d6c753edca557"}
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
-#EXTINF:-1 tvg-id="Aldosivi vs Boca Juniors" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",14.30hs Aldosivi vs Boca Juniors
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3534067578
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
-#EXTINF:-1 tvg-id="Aldosivi vs Boca Juniors" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",14.30hs Aldosivi vs Boca Juniors (2)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3534067578
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"94c9e4d22b7f59008100540395ab6071":"c85679667e247d4cf9ae07cdd5b64655","80dbb7714eb45b3588d3c3504fc54407":"8aaf77ed374e01283c5f9eed5fc0b0e5","d69ab8fc784f513686a121b69f085b5c":"945cfe61e4c2c7bc490d6c753edca557"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
 #EXTINF:-1 tvg-id="Talleres vs Deportivo Riestra" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",16.45hs Talleres vs Deportivo Riestra
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3534067578
 
@@ -527,6 +515,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=353406
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
 #EXTINF:-1 tvg-id="Racing Club vs Unión" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",21.15hs Racing Club vs Unión
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AppleTVLogo.png",21.00hs Seattle Sounders vs Inter Miami
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos-dsn-dtv&token=3534067578
 
 ### PARTIDOS ARG ####
 

@@ -403,7 +403,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=skylaliga&token=3534067578
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsmm&token=3534067578
 
-#EXTINF:-1 tvg-logo="https://x.playerlatino.live/f1.png",Formula 1 TV (F1) HD
+#EXTINF:-1 tvg-logo="https://x.playerlatino.live/f1.png",Formula 1 TV
 #KODIPROP:inputstream.adaptive.license_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=f1dazn-mm&token=3534067578
@@ -423,12 +423,33 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=beinsp1&token=3534067578
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN Mexico
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnmx&token=3534067578
  
-### PARTIDOS ARG ####
+### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",21.10hs Tigre vs Independiente Rivadavia
+#EXTINF:-1 tvg-id="Ecuador vs Argentina" tvg-logo="https://i.ibb.co/hJL8Y8Yf/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football.png",20.00hs Ecuador vs Argentina
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=3534067578
-### PARTIDOS ARG ####
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ecbc9e6fe6b145efb6658fb5cf7427f8":"03c17e28911f71221acbc0b11f900401"}
+#EXTINF:-1 tvg-id="Perú vs Paraguay" tvg-logo="https://i.ibb.co/hJL8Y8Yf/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football.png",20.30hs Perú vs Paraguay
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=ssc-extra1&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4bbcff3289d457b4dd5dbdd21221de9a":"c4906b9a9f8dda3c0725bddb8c497733"}
+#EXTINF:-1 tvg-id="Bolivia vs Brasil" tvg-logo="https://i.ibb.co/hJL8Y8Yf/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football.png",20.30hs Bolivia vs Brasil
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=sportvbr&token=3534067578
+
+#EXTINF:-1 tvg-id="Venezuela vs Colombia" tvg-logo="https://i.ibb.co/hJL8Y8Yf/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football.png",20.30hs Venezuela vs Colombia
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos3app&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7de5dd08ad8041d586c2f16ccc9490a1":"5e1503f3398b34f5099933fedab847ef"}
+#EXTINF:-1 tvg-id="Chile vs Uruguay" tvg-logo="https://i.ibb.co/hJL8Y8Yf/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football.png",20.30hs Chile vs Uruguay
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=ssc3&token=3534067578
+
+### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8

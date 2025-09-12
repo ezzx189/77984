@@ -3,12 +3,11 @@
 
 ################## FLOW #############################
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="america tv.ar" tvg-name="America.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png", America
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=america&token=3574401799
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b5651806b42f087c58332b052de727c5":"11901b35cc3e5aa73619f64d02c38a0f"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-id="america tv.ar" tvg-name="America.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png",America
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=americass&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e7b05c7a737b7f0a5d571b91deaa2697":"4079ac205b544b1c294ee1568906ff58"}
@@ -17,40 +16,35 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=eltrecesensa&token=35744017
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e88815a08b44c73a191161d3c15d890:9193a6d29f77bd651b9277f8f70b61b5
-#EXTINF:-1 tvg-id="El Trece.ar" tvg-name="Canal 13.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png", El Trece (Nacional)
+#EXTINF:-1 tvg-id="El Trece.ar" tvg-name="Canal 13.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png",El Trece (Nacional)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=eltrecetrimi&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="el nueve.ar"  tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png", El Nueve
+#EXTINF:-1 tvg-id="el nueve.ar" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png",El Nueve
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=elnueve&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png", Telefe (Interior)
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png",Telefe (Interior)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=telefe&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93f2e70d452d4fc2ae0c477ca66b29be:b204d146d7f369bc3c5a87acfcfb6532
-#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png", Telefe (Nacional)
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png",Telefe (Nacional)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=telefetrimi&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9825d6a017d5406e8bc50bb2bc7857c9:26196b3593c359c226bb7637cb188ce4
-#EXTINF:-1 tvg-id="tv publica.ar" tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png", TV Pública
+#EXTINF:-1 tvg-id="tv publica.ar" tvg-logo="https://static.flow.com.ar/images/77/CH_LOGO/60/40/0/0/37906384071569.png",TV Pública
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tvpublicatrimi&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
-#EXTINF:-1  tvg-id="Net TV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png", Net TV
+#EXTINF:-1  tvg-id="Net TV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/123/CH_LOGO/160/160/0/0/30595173074646.png",Net TV
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=nettv&token=3574401799
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/10017/CH_LOGO/600/400/0/0/96357727079072.png" ,Mix TV 
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=mixtv&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"90422640d3e846159fa450f83870ed4a":"abb3cd94aece1a462df25a8f21085cca"}
@@ -87,6 +81,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=america24&token=3574401799
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=c5n&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+#EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png", C5N (op2)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=c5nss&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
@@ -109,11 +108,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=lanaciontrimi&token=3574401
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
 #EXTINF:-1 tvg-id="721#IP Noticias HD" tvg-logo="https://static.flow.com.ar/images/8398/CH_LOGO/60/40/0/0/33946248076158.png",IP Noticias
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=iptv&token=3574401799
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b423130cc75a4ebea18f41ad46c03d0f:f87bccf9c8dbf7226c6863ed631aaa0b
-#EXTINF:-1 tvg-id="721#IP Noticias HD" tvg-logo="https://static.flow.com.ar/images/8398/CH_LOGO/60/40/0/0/33946248076158.png",IP Noticias (2)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=ipnoticiastrimi&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
@@ -250,37 +244,21 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=bloomerg&token=3574401799
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=euronews&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=72187f2651724db18505cdcad435841d:6f41e05476e34edf7bb9dc51f08f95df
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" , France24
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=france24&token=3574401799
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a3d29db38c4a9fa9a838c3d4d681db:d3aa374c4c0de33f463b4387a18297a6
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png", France24 Español
+#KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png", France24 Español
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=france24flow&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fe3f31a5e7b48a1b548e9364757ce66:32993fc281207fe915f6f1e990957868
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/693/CH_LOGO/60/40/0/0/7859188007578.png" , FOX News
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/693/CH_LOGO/60/40/0/0/7859188007578.png" , FOX News
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxnews&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f67b9efeace743cb8f70b72abbc9c35a:47cdfdf0ecc45c07b6d4c711cc5178fa
 #EXTINF:-1 tvg-id="teleSUR.ar" tvg-logo="https://static.flow.com.ar/images/724/CH_LOGO/60/40/0/0/2237715507388.png" ,Telesur
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=telesurtrimi&token=3574401799
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a3d29db38c4a9fa9a838c3d4d681db:d3aa374c4c0de33f463b4387a18297a6
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png"  , France24 Español
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=france24esp&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
@@ -358,6 +336,12 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=pakapakatrimi&token=3574401
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=plimplim&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a47bfb9e246f3b8405c1225fae73da9e:a4865fb8742b4541f64ac37370e902a6
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-id="EL CANAL DEL PAYASO PLIM PLIM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3983/CH_LOGO/160/160/0/0/96726193078010.png",PLIM PLIM TV (op2)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=plimplimss&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c789a53501c64b67823f376417c2ccf8:2fcda015ff039142fd80ec508d47a9ff
 #EXTINF:-1 212" tvg-id="Tooncast.uy"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png",Tooncast
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tooncasttrimi&token=3574401799
@@ -366,7 +350,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tooncasttrimi&token=3574401
 #KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="Pasiones.uy" tvg-logo="https://static.flow.com.ar/images/6619/CH_LOGO/60/40/0/0/93318670071976.png" ,Pasiones
+#EXTINF:-1 tvg-id="Pasiones.uy" tvg-logo="https://static.flow.com.ar/images/6619/CH_LOGO/60/40/0/0/93318670071976.png",Pasiones
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=pasiones&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -392,6 +376,12 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntnovelastrimi&token=35744
 #KODIPROP:inputstream.adaptive.license_key=92c3a3d9f95b475e9dde2e96fc0fb488:12c3659a8ae6018dba67cb5eda213c7d
 #EXTINF:-1 605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",Canal De Las Estrellas
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellastrimi&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6d17e47a4a6feed691363e2e57c2e322":"5e4906262b25b3f461eb9c63ea04b500"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",Canal De Las Estrellas (op2)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellasss&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c88dc6c668cac3b468d4a4c7e176ff3d":"1aeb739de2c14ed0ad658ca8043208d8"}
@@ -426,28 +416,30 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnmx&token=3574401799
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8
-#EXTINF:-1 tvg-id="Ecuador vs Argentina" tvg-logo="https://i.ibb.co/hJL8Y8Yf/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football.png",20.00hs Ecuador vs Argentina
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=3574401799
+#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+#EXTINF:-1 tvg-id="Deportivo Riestra vs Central Córdoba" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",14.30hs Deportivo Riestra vs Central Córdoba
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3574401799
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ecbc9e6fe6b145efb6658fb5cf7427f8":"03c17e28911f71221acbc0b11f900401"}
-#EXTINF:-1 tvg-id="Perú vs Paraguay" tvg-logo="https://i.ibb.co/hJL8Y8Yf/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football.png",20.30hs Perú vs Paraguay
-https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=ssc-extra1&token=3574401799
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+#EXTINF:-1 tvg-id="Huracán vs Vélez" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",19.00hs Huracán vs Vélez
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3574401799
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4bbcff3289d457b4dd5dbdd21221de9a":"c4906b9a9f8dda3c0725bddb8c497733"}
-#EXTINF:-1 tvg-id="Bolivia vs Brasil" tvg-logo="https://i.ibb.co/hJL8Y8Yf/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football.png",20.30hs Bolivia vs Brasil
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=sportvbr&token=3574401799
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-id="Racing vs San Lorenzo" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",19.00hs Racing vs San Lorenzo
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3574401799
 
-#EXTINF:-1 tvg-id="Venezuela vs Colombia" tvg-logo="https://i.ibb.co/hJL8Y8Yf/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football.png",20.30hs Venezuela vs Colombia
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos3app&token=3574401799
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+#EXTINF:-1 tvg-id="Lanús vs Independiente Rivadavia" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",20.15hs Lanús vs Independiente Rivadavia
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3574401799
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7de5dd08ad8041d586c2f16ccc9490a1":"5e1503f3398b34f5099933fedab847ef"}
-#EXTINF:-1 tvg-id="Chile vs Uruguay" tvg-logo="https://i.ibb.co/hJL8Y8Yf/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football.png",20.30hs Chile vs Uruguay
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=ssc3&token=3574401799
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-id="Newell’s Old Boys vs Atlético Tucumán" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",20.15hs Newell’s Old Boys vs Atlético Tucumán
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3574401799
+
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
@@ -557,7 +549,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",TNT Sports Premium (2)
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",TNT Sports Premium (2)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -567,12 +559,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=357440
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png", TNT Sports Premium (3)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3574401799
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9393321daef1463fc7e2e060298db852:be6bc91e17816f67e62596bed463c5ad
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 127" tvg-id="[PXSP] PX Sports" tvg-name="PX Sports" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/160/160/0/0/70671934073582.png",PX Sports
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=pxsports&token=3574401799
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e070a7426b8cb1cab5f63996b7bd7669":"1c140e0715b26c7232942ab87d232964"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-id="[PXSP] PX Sports" tvg-name="PX Sports" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/160/160/0/0/70671934073582.png",PX Sports
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=pxsportssen&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
@@ -641,6 +632,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=nbatv&token=3574401799
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
 #EXTINF:-1 126" tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png",Golf TV
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=golfchannel&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=38d6226b7cd2cfa86b4b9cdaa455e7d7:24f0ef2bf787647cc02df870417eed2b
+#EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/224/CH_LOGO/160/160/0/0/7391790707734.png",Golf TV (op2)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=golfchannel&token=3574401799
 
 #EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="Deportes",TyC Sports (+10MB)
@@ -903,11 +899,9 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=nickmusic&token=3574401799
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=quiero&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_04/large.2138035832_Vorterix(5).png.4c580f0a0521feb3a9871b2f09d9d75a.png" ,Vorterix
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=vorterix&token=3574401799
+#KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
+#EXTINF:-1 tvg-id="Quiero.ar" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/60/40/0/0/80393273073281.png",Quiero Música (op2)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=quieross&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c4356dc6afe440c899dab27c676147d:ac2e8376e3d62ef2380bfb67135bfc86

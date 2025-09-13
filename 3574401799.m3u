@@ -414,31 +414,25 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=beinsp1&token=3574401799
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnmx&token=3574401799
  
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 tvg-id="Deportivo Riestra vs Central Córdoba" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",14.30hs Deportivo Riestra vs Central Córdoba
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3574401799
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 tvg-id="Huracán vs Vélez" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",19.00hs Huracán vs Vélez
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3574401799
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
-#EXTINF:-1 tvg-id="Racing vs San Lorenzo" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",19.00hs Racing vs San Lorenzo
+#EXTINF:-1 tvg-id="Godoy Cruz vs Barracas Central" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",14.30hs Godoy Cruz vs Barracas Central
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 tvg-id="Lanús vs Independiente Rivadavia" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",20.15hs Lanús vs Independiente Rivadavia
+#EXTINF:-1 tvg-id="Independiente vs Banfield" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",16.45hs Independiente vs Banfield
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
-#EXTINF:-1 tvg-id="Newell’s Old Boys vs Atlético Tucumán" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",20.15hs Newell’s Old Boys vs Atlético Tucumán
+#EXTINF:-1 tvg-id="Estudiantes de La Plata vs River Plate" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",19.00hs Estudiantes vs River Plate
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+#EXTINF:-1 tvg-id="Sarmiento (Junín) vs Aldosivi" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",21.15hs Sarmiento vs Aldosivi
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3574401799
 
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####

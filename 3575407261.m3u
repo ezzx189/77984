@@ -414,26 +414,31 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=beinsp1&token=3575407261
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnmx&token=3575407261
  
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
-#EXTINF:-1 tvg-id="Godoy Cruz vs Barracas Central" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",14.30hs Godoy Cruz vs Barracas Central
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 tvg-id="Independiente vs Banfield" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",16.45hs Independiente vs Banfield
+#EXTINF:-1 tvg-id="Gimnasia vs Union" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",15.00hs Gimnasia vs Unión
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
-#EXTINF:-1 tvg-id="Estudiantes de La Plata vs River Plate" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",19.00hs Estudiantes vs River Plate
+#EXTINF:-1 tvg-id="Instituto vs Argentinos Juniors" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",15.00hs Instituto vs Argentinos Juniors
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 tvg-id="Sarmiento (Junín) vs Aldosivi" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",21.15hs Sarmiento vs Aldosivi
+#EXTINF:-1 tvg-id="Rosario Central vs Boca Juniors" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",17.30hs Rosario Central vs Boca Juniors
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3575407261
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+#EXTINF:-1 tvg-id="Defensa y Justicia vs Platense" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",20.00hs Defensa y Justicia vs Platense
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-id="Tigre vs Talleres" tvg-logo="https://www.ligaprofesional.ar/wp-content/uploads/2022/04/logo-LPF.png",20.00hs Tigre vs Talleres
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3575407261
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 

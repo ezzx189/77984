@@ -20,6 +20,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=eltrecesensa&token=35340675
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=eltrecetrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f1527881baf4166865452f046d8f445:d192df40da8a2c752a8a921f827c325f
+#EXTINF:-1 tvg-id="el nueve.ar" tvg-logo="https://static.flow.com.ar/images/76/CH_LOGO/60/40/0/0/93367508072808.png",⚡El Nueve
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=elnuevetrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
@@ -28,12 +33,12 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=elnueve&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png",Telefe (Interior)
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png",Telefe
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=telefe&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93f2e70d452d4fc2ae0c477ca66b29be:b204d146d7f369bc3c5a87acfcfb6532
-#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png",Telefe (Nacional)
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png",⚡Telefe
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=telefetrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -77,7 +82,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=america24&token=3534067578
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png", C5N
+#EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png",⚡C5N
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=c5n&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -95,12 +100,26 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=canal26&token=3534067578
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f37298e504974d279d241a77fd872620:866fcb859136415b83960cda9863d445
 #EXTINF:-1 tvg-id="Cronica TV.uy" tvg-name="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png", Crónica
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=cronicatrimi&token=3534067578&token=3534067578
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=cronicatrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="Cronica TV.uy" tvg-name="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png",⚡Crónica
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=cronica&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ca7e4a4a0314d15bad3b2066b4f1b30:bc77f956816ee72f9e02f8d43fee43c5
 #EXTINF:-1 tvg-id="La Nacion.uy" tvg-name="LNAC+" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png", La Nación +
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=lanaciontrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="La Nacion.uy" tvg-name="LNAC+" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/105/CH_LOGO/160/160/0/0/85249704073644.png",⚡La Nación +
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=lanacion&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
@@ -280,9 +299,23 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=babytv&token=3534067578
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=cartoonetworktrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="Cartoon Network.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/160/160/0/0/18422580072845.png",⚡Cartoon Network
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=cartoonetwork&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=08c256c2691645c7862b0859676f3613:d36fdcc51ca4c3e69a76a34c1bcbbca1
 #EXTINF:-1 203" tvg-id="Cartoonito HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/481/CH_LOGO/160/160/0/0/1490409807453.png",Cartoonito
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=cartoonitotrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 203" tvg-id="Cartoonito HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/481/CH_LOGO/160/160/0/0/1490409807453.png",⚡Cartoonito
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=cartoonito&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbc1a31ab534cbb84ecd4bf643bb892:e88cebf2c562fbc15d993f30912678eb
@@ -290,14 +323,35 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=cartoonitotrimi&token=35340
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=discoverykidstrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 204" tvg-id="Discovery Kids HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/67/CH_LOGO/160/160/0/0/43430600073531.png",⚡Discovery Kids
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=discoverykids&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=deb672e305c9437eacdbc9d089d22d55:12472c24acd1d9f45af3e506d8de76da
 #EXTINF:-1 205" tvg-id="Disney Channel HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/50/CH_LOGO/160/160/0/0/77798092074367.png",Disney Channel
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=disneychanneltrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 205" tvg-id="Disney Channel HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/50/CH_LOGO/160/160/0/0/77798092074367.png",⚡Disney Channel
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=disneychannel&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ab0e382392041d0ba4e0c8614d86f54:b2eeb65ed3963f7b36656ded24b3fe0d
 #EXTINF:-1 206" tvg-id="Disney Jr HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png",Disney Junior
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=disneyjrtrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 206" tvg-id="Disney Jr HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/70/CH_LOGO/160/160/0/0/4140286707756.png",⚡Disney Junior
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=disneyjr&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
@@ -312,14 +366,36 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=dreamworks&token=3534067578
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=nicktrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="Nickelodeon.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/160/160/0/0/70239189071229.png",⚡Nickelodeon
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=nick&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d61ca4efb76b43b89cc4180958edbfce:95315da03f990fa4cf950c0141a4c4c1
 #EXTINF:-1 210" tvg-id="Nick Jr..uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/160/160/0/0/61362740071226.png",Nick Jr.
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=nickjrtrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 210" tvg-id="Nick Jr..uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/160/160/0/0/61362740071226.png",⚡Nick Jr.
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=nickjr&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a93114df10b242f7bc447d5351ecf84a:4d8fec73c75ac428aa214471196f332d
 #EXTINF:-1 214" tvg-id="Pakapaka.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/160/160/0/0/46888977071492.png",Paka Paka
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=pakapakatrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 214" tvg-id="Pakapaka.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/160/160/0/0/46888977071492.png",⚡Paka Paka
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=pakapaka&token=3534067578
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e88e1572dcd2b31a10026668d628d61:ab95bdc2655aff4f4a8e512fb68c80df
@@ -331,13 +407,20 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=plimplim&token=3534067578
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a47bfb9e246f3b8405c1225fae73da9e:a4865fb8742b4541f64ac37370e902a6
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 tvg-id="EL CANAL DEL PAYASO PLIM PLIM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3983/CH_LOGO/160/160/0/0/96726193078010.png",PLIM PLIM TV (op2)
+#EXTINF:-1 tvg-id="EL CANAL DEL PAYASO PLIM PLIM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3983/CH_LOGO/160/160/0/0/96726193078010.png",⚡PLIM PLIM TV
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=plimplimss&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c789a53501c64b67823f376417c2ccf8:2fcda015ff039142fd80ec508d47a9ff
 #EXTINF:-1 212" tvg-id="Tooncast.uy"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png",Tooncast
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tooncasttrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 212" tvg-id="Tooncast.uy"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/160/160/0/0/5456596307880.png",⚡Tooncast
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tooncast&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
@@ -366,14 +449,21 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tlnovelas&token=3534067578
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntnovelastrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/114/CH_LOGO/160/160/0/0/98175226078201.png",⚡TNT Novelas
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntnovelas&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92c3a3d9f95b475e9dde2e96fc0fb488:12c3659a8ae6018dba67cb5eda213c7d
-#EXTINF:-1 605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",Canal De Las Estrellas
+#EXTINF:-1 605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",⚡Canal De Las Estrellas
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellastrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d17e47a4a6feed691363e2e57c2e322":"5e4906262b25b3f461eb9c63ea04b500"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",Canal De Las Estrellas (op2)
+#EXTINF:-1 605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",Canal De Las Estrellas
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellasss&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -397,45 +487,55 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=f1dazn-mm&token=3534067578
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f959dcdd1ca8c89658cd651ed36e2851":"aa4cf56ce7c522a9e6582c42537be381"}
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cyr3ykf/unnamed.png",Bein Sports 1
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=beinsp1&token=3534067578
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"bb43112b7b72e9c287da0ecdec8606a7":"29e3d2678107f0ab0b35b6537c734f2a"}
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN Mexico
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnmx&token=3534067578
  
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
-
 # Liga Profesional Argentina
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",17.00hs Deportivo Riestra vs Gimnasia La Plata
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.00hs Huracán vs Racing
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3534067578
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",14.30hs Barracas Central vs Sarmiento
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.15hs San Martín de San Juan vs Vélez
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3534067578
+#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",16.45hs Unión vs Independiente Rivadavia
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.00hs Tigre vs Aldosivi
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",21.15hs Atlético Tucumán vs River
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3534067578
+
+# Premier League
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",21.15hs Lanús vs Platense
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3534067578
+#EXTINF:-1 tvg-id="premier-league" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg",13.30hs Manchester United vs Chelsea
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="premier-league" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg",16.00hs Fulham vs Brentford
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3534067578
+
+#EXTINF:-1 tvg-id="la-liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",11.15hs Real Madrid vs Espanyol
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos-dsn-dtv&token=3534067578
+
+#EXTINF:-1 tvg-id="la-liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",16.00hs Valencia vs Athletic Club
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos-dsn-dtv&token=3534067578
+
+
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -677,9 +777,23 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportsiptv&token=3534067
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=adultswimtrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 300" tvg-id="Adult Swim.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/118/CH_LOGO/160/160/0/0/32013737078382.png",⚡Adult Swim
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=adultswim&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68fc78cb6fe580c35d269da87a471eb0:2bd623220a247d95d6900cea612769df
 #EXTINF:-1 tvg-id="AMC HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png",AMC
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=amcsensa&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1  302"  tvg-id="AMC HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png",⚡AMC
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=amc&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=451633bd019d424aa446e20b565f2f18:78b21bcf86c8513527f62d3587a84be9
@@ -687,9 +801,23 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=amcsensa&token=3534067578
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=axntrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 303" tvg-id="AXN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/160/160/0/0/77211152071862.png",⚡AXN
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=axn&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ce6f8eb80d04692a1e77fa788dc6136:269ca950fc51d37ed86c31f72a20e455
 #EXTINF:-1  tvg-id="CineAr.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/160/160/0/0/98997452071605.png",Cine.AR
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=cineartrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1  tvg-id="CineAr.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/61/CH_LOGO/160/160/0/0/98997452071605.png",⚡Cine.AR
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=cinear&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4e6b00b29c84110829208225723d74f:6201e040d30dd4131baf791c74898c52
@@ -697,14 +825,35 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=cineartrimi&token=353406757
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=paramounttrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 330" tvg-id="Paramount HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/318/CH_LOGO/160/160/0/0/87610940072910.png",⚡Paramount Network
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=paramount&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=786868f2a5a843dc99030ba829382cdf:1dd03c0b202f12a51e351cf03655b550
 #EXTINF:-1 332" tvg-id="Sony HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png",Sony Channel
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=sonytrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 332" tvg-id="Sony HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/160/160/0/0/86995730071579.png",⚡Sony Channel
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=sony&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1caed3009f584a919c39623408697540:b978808cc8be700a40de8e7704a2cf8f
-#EXTINF:-1 tvg-id="Sony Movies.uy" tvg-logo="https://static.flow.com.ar/images/9139/CH_LOGO/60/40/0/0/59061481076336.png" ,Sony Movies
+#EXTINF:-1 tvg-id="Sony Movies.uy" tvg-logo="https://static.flow.com.ar/images/9139/CH_LOGO/60/40/0/0/59061481076336.png",Sony Movies
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=sonymoviestrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="Sony Movies.uy" tvg-logo="https://static.flow.com.ar/images/9139/CH_LOGO/60/40/0/0/59061481076336.png",⚡Sony Movies
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=sonymovies&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a9c0a7dec5e49bf9b018ff4412be393:cbcdfffb4322ee726d4d1729a8dacf5c
@@ -712,9 +861,23 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=sonymoviestrimi&token=35340
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=spacetrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 334" tvg-id="Space HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/160/160/0/0/98227784074535.png",⚡Space
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=space&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e848170ca304178b8f88943edc2c42b:54e0b083eb9f9bed734df744d0c0e366
 #EXTINF:-1 335" tvg-id="STAR Channel HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png",Star Channel
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=starchanneltrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 335" tvg-id="STAR Channel HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/160/160/0/0/6901418607879.png",⚡Star Channel
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=starchannel&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de5255dd92e15aee8c74d68f33bee1c9:8a72719b28d1090ef38548053c9495ba
@@ -732,6 +895,14 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tcm&token=3534067578
 #KODIPROP:inputstream.adaptive.license_key=7df5d516c1644978aafd9a6f00846adc:fe5591c37341ef9870d5bf272880b896
 #EXTINF:-1 339" tvg-id="TNT HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png",TNT
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tnttrimi&token=3534067578
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 339" tvg-id="TNT HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png",⚡TNT
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tnt&token=3534067578
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=653b324749e746d2acb999b58e585027:6eb5e42a2f321b7507dc4e6aed472630

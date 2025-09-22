@@ -493,46 +493,16 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnmx&token=3534067578
  
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
-# Formula 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9f327d24c66fbd84e15ab5c9ead7c7a4":"83837185529c0c4048f81386c2d36426"}
-#EXTINF:-1 tvg-id="formula-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/320px-F1.svg.png",08.00hs GP de Azerbaiyán Carrera
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-
 # Liga Profesional Argentina
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.00hs Estudiantes vs Defensa y Justicia
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3534067578
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",14.30hs Independiente vs San Lorenzo
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",21.00hs Belgrano vs Newells
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3534067578
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",16.45hs Godoy Cruz vs Instituto
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3534067578
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.00hs Argentinos Juniors vs Banfield
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3534067578
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.00hs Rosario Central vs Talleres
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3534067578
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",21.15hs Boca Juniors vs Central Córdoba
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3534067578
 
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####

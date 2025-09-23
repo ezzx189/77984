@@ -493,16 +493,19 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnmx&token=3576461693
  
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
-# Liga Profesional Argentina
+# Copa Libertadores
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.00hs Estudiantes vs Defensa y Justicia
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3576461693
+#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
+#EXTINF:-1 tvg-id="copa-libertadores" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/306px-Copa_Libertadores_logo.svg.png",19.00hs Racing vs Vélez
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3576461693
 
+# Copa Sudamericana
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",21.00hs Belgrano vs Newells
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3576461693
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="copa-sudamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/CONMEBOL_Sudamericana_logo_%282017%29.svg/604px-CONMEBOL_Sudamericana_logo_%282017%29.svg.png",21.30hs Fluminense vs Lanús
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3576461693
 
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####

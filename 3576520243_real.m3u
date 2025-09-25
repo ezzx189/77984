@@ -493,19 +493,30 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnmx&token=3576520243
  
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
-# Copa Sudamericana
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="copa-sudamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/CONMEBOL_Sudamericana_logo_%282017%29.svg/604px-CONMEBOL_Sudamericana_logo_%282017%29.svg.png",21.30hs Once Caldas vs Independiente del Valle
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn2&token=3576520243
+# Copa Libertadores - Cuartos de Final (Vuelta)
 
-# Copa Libertadores
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTINF:-1 tvg-id="copa-libertadores" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/306px-Copa_Libertadores_logo.svg.png",21.30hs Palmeiras vs River
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=telefe&token=3576520243
+#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
+#EXTINF:-1 tvg-id="copa-libertadores" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/306px-Copa_Libertadores_logo.svg.png",19.00hs Sao Paulo vs Liga de Quito
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3576520243
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
+#EXTINF:-1 tvg-id="copa-libertadores" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/306px-Copa_Libertadores_logo.svg.png",21.30hs Estudiantes vs Flamengo
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3576520243
+
+# Copa Sudamericana - Cuartos de Final (Vuelta)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
+#EXTINF:-1 tvg-id="copa-sudamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/CONMEBOL_Sudamericana_logo_%282017%29.svg/604px-CONMEBOL_Sudamericana_logo_%282017%29.svg.png",21.30hs U. de Chile vs Alianza Lima
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos1&token=3576520243
+
+# La Liga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c88dc6c668cac3b468d4a4c7e176ff3d":"1aeb739de2c14ed0ad658ca8043208d8"}
+#EXTINF:-1 tvg-id="la-liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/330px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",16.30hs Real Oviedo vs Barcelona
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=skylaliga&token=3576520243
+
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 

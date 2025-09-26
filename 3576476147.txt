@@ -471,10 +471,13 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellasss&token=357647
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/ezzxg/thelgman@main/latest.png",Sky Sports La Liga
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=skylaliga&token=3576476147
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",Dsports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",⚡Dsports
 #KODIPROP:inputstream.adaptive.license_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsmm&token=3576476147
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",Dsports
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsip&token=3576476147
 
 #EXTINF:-1 tvg-logo="https://x.playerlatino.live/f1.png",Formula 1 TV
 #KODIPROP:inputstream.adaptive.license_type=mpd
@@ -490,32 +493,36 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/o
 #KODIPROP:inputstream.adaptive.license_key={"bb43112b7b72e9c287da0ecdec8606a7":"29e3d2678107f0ab0b35b6537c734f2a"}
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN Mexico
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnmx&token=3576476147
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"90e2e491c850a49a5ab21bb6fa6b4d24":"4d7e33da19b971cef49e35eccdb9de0b"}
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",ESPN 2 Mexico
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn2mx&token=3576476147
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0355f64277082b903022985035c498ca":"7a8ed20a4958398677e2c9ccd5a53a00"}
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="Deportes",ESPN 3 Mexico
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn3mx&token=3576476147
  
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
-# Copa Libertadores - Cuartos de Final (Vuelta)
+# Liga Profesional Argentina
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.00hs Platense vs San Martín de San Juan
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3576476147
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 tvg-id="copa-libertadores" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/306px-Copa_Libertadores_logo.svg.png",19.00hs Sao Paulo vs Liga de Quito
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3576476147
+#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.00hs Banfield vs Unión
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3576476147
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdc62b44394044f5929d40ef41f425a1:bc88342b7940f2f85dbe698cec2639c5
-#EXTINF:-1 tvg-id="copa-libertadores" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/306px-Copa_Libertadores_logo.svg.png",21.30hs Estudiantes vs Flamengo
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsportstrimi&token=3576476147
-
-# Copa Sudamericana - Cuartos de Final (Vuelta)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
-#EXTINF:-1 tvg-id="copa-sudamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/CONMEBOL_Sudamericana_logo_%282017%29.svg/604px-CONMEBOL_Sudamericana_logo_%282017%29.svg.png",21.30hs U. de Chile vs Alianza Lima
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos1&token=3576476147
-
-# La Liga
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c88dc6c668cac3b468d4a4c7e176ff3d":"1aeb739de2c14ed0ad658ca8043208d8"}
-#EXTINF:-1 tvg-id="la-liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/330px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",16.30hs Real Oviedo vs Barcelona
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=skylaliga&token=3576476147
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",21.15hs Central Córdoba (SdE) vs Tigre
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3576476147
 
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####

@@ -503,26 +503,53 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn2mx&token=3575407261
 #KODIPROP:inputstream.adaptive.license_key={"0355f64277082b903022985035c498ca":"7a8ed20a4958398677e2c9ccd5a53a00"}
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="Deportes",ESPN 3 Mexico
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn3mx&token=3575407261
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cKQSPmKb/1000.png" group-title="Deportes",Gol Peru
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=golperu&token=3575407261
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/43mDJk0/latest.png" group-title="Deportes",Liga 1 Max
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=liga1max&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"eaea45512d137def15b209a089cafd14":"8d42db746ed0c4df61729b0d68d42bd7"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Deportes",Sportv BR
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=sportvbr&token=3575407261
+
  
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
 # Liga Profesional Argentina
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.00hs Platense vs San Martín de San Juan
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3575407261
+#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",14.30hs Aldosivi vs Argentinos
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.00hs Banfield vs Unión
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",14.30hs Gimnasia (LP) vs Rosario Central
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",21.15hs Central Córdoba (SdE) vs Tigre
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",16.45hs San Lorenzo vs Godoy Cruz
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.00hs Defensa y Justicia vs Boca
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",21.15hs Talleres vs Sarmiento (J)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3575407261
+
+# Major League Soccer
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
+#EXTINF:-1 tvg-id="mls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/424px-MLS_crest_logo_RGB_gradient.svg.png",17.30hs Toronto FC vs Inter Miami
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos1&token=3575407261
 
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
@@ -957,12 +984,22 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=fx&token=3575407261
 #EXTINF:-1 317" tvg-id="Golden.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/281/CH_LOGO/160/160/0/0/7149423107401.png",Golden
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=goldenss&token=3575407261
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f23601997bc024ea96b6b9d1e2b8b3fc":"521a2cfdd3f649a9543422dc41fa4ca0"}
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden-mediano.png" group-title="Entretenimiento",Golden Multiplex
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=goldenmultiplex&token=3575407261
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7d085dbd4539afcc6a55445efb2b04e:0a55fbe044fed379d1632b589265b571
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
 #EXTINF:-1 317" tvg-id="Golden.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/281/CH_LOGO/160/160/0/0/7149423107401.png",⚡Golden
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=golden&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"34fa35c8323c11cbb83cb381be55bd64":"02ccc6ae07d997bdbd8b97865d69bb35"}
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="Entretenimiento",Golden Premier
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=goldenprem&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=13b2c63340e84314ad2c44d6e4ecf686:1bae790e285fcedc3c8bc9597438bb0e
@@ -1143,6 +1180,9 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=MiMusicaReggaeton&token=357
 #KODIPROP:inputstream.adaptive.license_key={"2246c747e5f4e1dc055050d178618935":"c6c2a6693bec059ebced788d09d271f3"}
 #EXTINF:-1 tvg-logo="https://www.latingroup.us/images/logommh.png" group-title="Música",MiMusica Hits
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=MiMusicaHit&token=3575407261
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telehit-mediano.png" group-title="Música",TeleHit
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=telehit&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=332fe5d3376f495999ab9fcc3a09d6e6:efbf5c5c94f2777d9385aa0bcb285783

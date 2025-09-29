@@ -524,27 +524,20 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=sportvbr&token=3575407261
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
 # Liga Profesional Argentina
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",15.15hs Racing vs Independiente
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",18.00hs River vs Dep. Riestra
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3575407261
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",15.30hs Barracas Central vs Belgrano (C)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",19.30hs Independiente Rivadavia vs Huracán
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3575407261
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
-#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",20.15hs Instituto vs Lanús
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3575407261
-
-
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-id="liga-argentina" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F1.png",20.00hs Vélez vs Atlético Tucumán
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3575407261
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
@@ -560,12 +553,22 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=357540
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports Internacional
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportsinter&token=3575407261
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1c671f202f035fc68295e285440e1f06":"310aef86833c26696c1f6682934530ce","3269cc1ffdc856d39d6d27acaaeb9c57":"af30637020bd80650ef7ac7a57f05405","98c0a1fb0d425f88bfe1c2ad098575ae":"aae9f2ad90d5d29db4314586af9b414f"}
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports CL
+https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"90671184dd82541a9d1786eaa025e345":"74f8eab46c1e43fd8f7b64c21a96fc5b","b87d7da884bd5f3496015f9c2e53c896":"4451447bdf55fe4451f4a3bf177da59a","b6989ba0aa0f5e8a817ecdfd9c385994":"75c6e6d57308f34ca482802a5e796a05"}
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN Chile
+https://cdn-live.mundogo.cl/espn/espn.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d243ebd7a57bea4b4b052ae13f4c051":"5c1925879de873d43b7c25925902539b"}
@@ -578,6 +581,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3575407261
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
 #EXTINF:-1 102" tvg-id="ESPN 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",ESPN 2
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn2&token=3575407261
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4a79050eb710572bbc3cfa75706c1411":"3015fdb9da55deb571db141dd9e6a788","6ebf764158155658b1a765c2d86835d3":"3f330026708fc2fdd1a2f0e23cee7d04","888609fc0d8551f3b78cc018fe66f2fe":"42c3abebbeade8d3ccaf2877db162f73"}
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png",ESPN 2 Chile
+https://cdn-live.mundogo.cl/espn2/espn2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38

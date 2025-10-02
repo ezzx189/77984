@@ -11,6 +11,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=americass&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e7b05c7a737b7f0a5d571b91deaa2697":"4079ac205b544b1c294ee1568906ff58"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
 #EXTINF:-1 tvg-id="El Trece.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png",El Trece (Interior)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=eltrecesensa&token=3575416616
 
@@ -87,6 +88,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=c5n&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
 #EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png", C5N (op2)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=c5nss&token=3575416616
 
@@ -257,6 +259,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=euronews&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f35f2d6a34c58941cc3e066c75c2690:872ba8b196786ee9858645e641ac221d
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png", France24 Español
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=france24flow&token=3575416616
 
@@ -558,39 +561,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsplusmm&token=3575416
 
  
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
-# UEFA Champions League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4a79050eb710572bbc3cfa75706c1411":"3015fdb9da55deb571db141dd9e6a788","6ebf764158155658b1a765c2d86835d3":"3f330026708fc2fdd1a2f0e23cee7d04","888609fc0d8551f3b78cc018fe66f2fe":"42c3abebbeade8d3ccaf2877db162f73"}
-#EXTINF:-1 tvg-id="champions-league" tvg-logo="https://static.fan.at/images/9f128e5a-49dd-470d-8b27-29de01374fd4_640x640.png",13.45hs Qarabag vs Copenhagen
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn2cl&token=3575416616
-
+# Copa Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
-#EXTINF:-1 tvg-id="champions-league" tvg-logo="https://static.fan.at/images/9f128e5a-49dd-470d-8b27-29de01374fd4_640x640.png",16.00hs Mónaco vs Manchester City
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn&token=3575416616
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4a79050eb710572bbc3cfa75706c1411":"3015fdb9da55deb571db141dd9e6a788","6ebf764158155658b1a765c2d86835d3":"3f330026708fc2fdd1a2f0e23cee7d04","888609fc0d8551f3b78cc018fe66f2fe":"42c3abebbeade8d3ccaf2877db162f73"}
-#EXTINF:-1 tvg-id="champions-league" tvg-logo="https://static.fan.at/images/9f128e5a-49dd-470d-8b27-29de01374fd4_640x640.png",16.00hs Arsenal vs Olympiacos
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn2cl&token=3575416616
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2370ca5b9094aabaadc5e0f4a9679ca:a3b13386e6929346c23ca8a48f4cfa9d
-#EXTINF:-1 tvg-id="champions-league" tvg-logo="https://static.fan.at/images/9f128e5a-49dd-470d-8b27-29de01374fd4_640x640.png",16.00hs Villarreal vs Juventus
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn3trimi&token=3575416616
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ad73320242a4ad2b6eb2426dd3c0a6d:78d8e57062ba715bce7a7f0253bc0c96
-#EXTINF:-1 tvg-id="champions-league" tvg-logo="https://static.fan.at/images/9f128e5a-49dd-470d-8b27-29de01374fd4_640x640.png",16.00hs Napoli vs Sporting Lisboa
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn4trimi&token=3575416616
-
-#EXTINF:-1 tvg-id="champions-league" tvg-logo="https://static.fan.at/images/9f128e5a-49dd-470d-8b27-29de01374fd4_640x640.png",16.00hs Barcelona vs PSG
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos-dsn-dtv&token=3575416616
-
-#EXTINF:-1 tvg-id="champions-league" tvg-logo="https://static.fan.at/images/9f128e5a-49dd-470d-8b27-29de01374fd4_640x640.png",16.00hs Borussia Dortmund vs Athletic Club
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eventos1&token=3575416616
+#KODIPROP:inputstream.adaptive.license_key=58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8
+#EXTINF:-1 tvg-id="copa-argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Copa_argentina_logo22.png",18.00hs Racing vs River
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=3575416616
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
@@ -625,6 +600,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn1cl&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6d243ebd7a57bea4b4b052ae13f4c051":"5c1925879de873d43b7c25925902539b"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN 1
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnsensa&token=3575416616
 
@@ -856,6 +832,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=adultswim&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68fc78cb6fe580c35d269da87a471eb0:2bd623220a247d95d6900cea612769df
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
 #EXTINF:-1 tvg-id="AMC HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png",AMC
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=amcsensa&token=3575416616
 
@@ -1033,9 +1010,9 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=fxtrimi&token=3575416616
 #EXTINF:-1 316" tvg-id="FX HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png",⚡FX
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=fx&token=3575416616
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
 #EXTINF:-1 317" tvg-id="Golden.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/281/CH_LOGO/160/160/0/0/7149423107401.png",Golden
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=goldenss&token=3575416616
 
@@ -1277,6 +1254,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=quiero&token=3575416616
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d62845f01d257a91fd73d62751828dc1:b600539e698a707de23e57d4cdb99d9a
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
 #EXTINF:-1 tvg-id="Quiero.ar" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/60/40/0/0/80393273073281.png",Quiero Música (op2)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=quieross&token=3575416616
 

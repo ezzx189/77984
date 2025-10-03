@@ -497,10 +497,31 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsports22mm&token=357540726
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsplusmm&token=3575407261
 
+#EXTINF:-1 tvg-id="TUDN USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXBM2GgKvFj-jUYvrdZt7KFYYLz9KNVfMtw&s" group-title="SPORTS", TUDN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tudnizi&token=3575407261
+
 #EXTINF:-1 tvg-logo="https://x.playerlatino.live/f1.png",Formula 1 TV
 #KODIPROP:inputstream.adaptive.license_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=f1dazn-mm&token=3575407261
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s" group-title="SPORTS",SKY LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=sky_ev1&token=3575407261
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s" group-title="SPORTS",SKY LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=sky_ev2&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9f327d24c66fbd84e15ab5c9ead7c7a4":"83837185529c0c4048f81386c2d36426"}
@@ -538,34 +559,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=liga1max&token=3575407261
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Deportes",Sportv BR
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=sportvbr&token=3575407261
 
-# Mundial Sub 20
-#EXTINF:-1 tvg-id="mundial-sub20" tvg-logo="https://i.ibb.co/jPcY9zqG/2025-FIFA-U-20-World-Cup-logo.png",17.00hs España vs México
-#KODIPROP:inputstream.adaptive.license_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsplusmm&token=3575407261
-
-#EXTINF:-1 tvg-id="mundial-sub20" tvg-logo="https://i.ibb.co/jPcY9zqG/2025-FIFA-U-20-World-Cup-logo.png",20.00hs Italia vs Cuba
-#KODIPROP:inputstream.adaptive.license_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsports2mm&token=3575407261
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=93f2e70d452d4fc2ae0c477ca66b29be:b204d146d7f369bc3c5a87acfcfb6532
-#EXTINF:-1 tvg-id="mundial-sub20" tvg-logo="https://i.ibb.co/jPcY9zqG/2025-FIFA-U-20-World-Cup-logo.png",20.00hs Argentina vs Australia
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=telefetrimi&token=3575407261
-
-#EXTINF:-1 tvg-id="mundial-sub20" tvg-logo="https://i.ibb.co/jPcY9zqG/2025-FIFA-U-20-World-Cup-logo.png",20.00hs Brasil vs Marruecos
-#KODIPROP:inputstream.adaptive.license_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=dsportsplusmm&token=3575407261
-
  
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
-# Copa Argentina
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8
-#EXTINF:-1 tvg-id="copa-argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Copa_argentina_logo22.png",18.00hs Racing vs River
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=3575407261
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Deportes",AGENDA NO DISPONIBLE HASTA NUEVO AVISO
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=sportvbr&token=3575407261
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
@@ -1200,16 +1198,19 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=cmtrimi&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0f1be10d0519e0c453105f01319fe407":"9976d91bfcdc7dd2148d36af89027762"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/ezzxg/thelgman@main/mmroman.png" group-title="Música",MiMusica Romantica
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=MiMusicaRomantica&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d288fc2da0339c9cfa178be4a07c4cd2":"c0e25b5d30b6829b15266e84807a0ca6"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/ezzxg/thelgman@main/logommr.png" group-title="Música",MiMusica Reggaeton
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=MiMusicaReggaeton&token=3575407261
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2246c747e5f4e1dc055050d178618935":"c6c2a6693bec059ebced788d09d271f3"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
 #EXTINF:-1 tvg-logo="https://www.latingroup.us/images/logommh.png" group-title="Música",MiMusica Hits
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=MiMusicaHit&token=3575407261
 

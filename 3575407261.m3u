@@ -224,6 +224,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=telefeinternacional&token=3
 #EXTINF:-1 tvg-id="CNN Español.uy" tvg-logo="https://static.flow.com.ar/images/676/CH_LOGO/60/40/0/0/566991570762.png", CNN En Español
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=cnnesp&token=3575407261
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3501bd323a6a35c28eb7654bf298b9aa":"2db4c8089d627e1b2c480c57baa86a7b"}
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/universo-mediano.png",Universo
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=universo&token=3575407261
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f24708ad1184ee3a04b650941f9894b:e5bc7c5ff392119423dbf1c023a7b21c
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/

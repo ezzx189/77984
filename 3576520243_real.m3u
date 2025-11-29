@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTM3U refresh="0.01" url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://albaforge.com/bin-cas6u/epg/an/EPG/FLOWTV.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/paraguay2.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/232/232008.png" group-title="Deportes",NUEVA APP DISPONIBLE!
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=agenda&token=3576520243
+
 ################## FLOW #############################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -474,11 +477,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellastrimi&token=357
 #EXTINF:-1 605" tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png",Canal De Las Estrellas
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=lasestrellasss&token=3576520243
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c88dc6c668cac3b468d4a4c7e176ff3d":"1aeb739de2c14ed0ad658ca8043208d8"}
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/ezzxg/thelgman@main/latest.png",Sky Sports La Liga
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=skylaliga&token=3576520243
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gZcmTZBz/Direc-TVSports2018.png",⚡Dsports
 #KODIPROP:inputstream.adaptive.license_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
@@ -514,39 +512,10 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tudnizi&token=3576520243
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Magma Player/10&X-App=di&X-Version=10/1.0.9&X-Did=e6801a17e26ca305&X-Hash=YBnC6diYgnMRcdn-sFsAxjut_SZTyv4mm1wtAkTHnZJOJJFWkgN8z980YB8qaRiNNZsDUzA8YzDlOAodtBSr30b0CQIQC1uM4vbxjtCkCXQQvSrVoJSigdb5tIy9-LvBQ27HfTDC3-IKgyzNu56nJyr6OI-jAMOMqQ0D23urb7fpPfcTf_gPRA9YGNoDsEF6d8Qtfvq3kZKpb-5RUFgeOezU6T6lCksMLInLd56L1q_StcmTcppnHJiEtg9yqUJjFkrF6ttjKmiQpSpvRWGfPs5oWW_lQKz5t2fVK_Im6-qzcTU07NRd8W21D3YrCNnKlXK0dxwQItDvIQ_jG2a6mU7DN8w6HHLQmYEujAsdjXv98fn36zJRZ37FuyR2iZjvyHMiq5_vjLmk1q3rkTBX5z2BC4ovru4Pfs2KFhwc72iClOdwIqcXxfGcIKpB1cy6Vs6Xui24d5f70f_kO6Nl0LEvCPT3WdI_LKR8wYudCwY3puNf59ilPRKvIfjzxOIwHR4h24SeW2cUz1GuhtH7Jg
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=f1dazn-mm&token=3576520243
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s" group-title="SPORTS",SKY LIVE 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=sky_ev1&token=3576520243
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s" group-title="SPORTS",SKY LIVE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=sky_ev2&token=3576520243
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9f327d24c66fbd84e15ab5c9ead7c7a4":"83837185529c0c4048f81386c2d36426"}
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Fox_sports_premium_mx.png/960px-Fox_sports_premium_mx.png",Fox Sports Premium Mexico
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"bb43112b7b72e9c287da0ecdec8606a7":"29e3d2678107f0ab0b35b6537c734f2a"}
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png",ESPN Mexico
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnmx&token=3576520243
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"90e2e491c850a49a5ab21bb6fa6b4d24":"4d7e33da19b971cef49e35eccdb9de0b"}
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_2_norte-mediano.png",ESPN 2 Mexico
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn2mx&token=3576520243
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0355f64277082b903022985035c498ca":"7a8ed20a4958398677e2c9ccd5a53a00"}
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/espn_3_norte-mediano.png" group-title="Deportes",ESPN 3 Mexico
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espn3mx&token=3576520243
 
 #EXTINF:-1 tvg-logo="https://x.playerlatino.live/tudn.png",TUDN USA
 #KODIPROP:inputstream.adaptive.license_type=mpd
@@ -567,7 +536,7 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=sportvbr&token=3576520243
  
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
-#EXTINF:-1 tvg-logo="https://www.ole.com.ar/images/collections/iconos-agenda-deportiva/icon-sport-futbol___66bf97998a96290017022a4f.png" group-title="Deportes",AGENDA DEPORTIVA
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/232/232008.png" group-title="Deportes",NUEVA APP DISPONIBLE!
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=agenda&token=3576520243
 
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
@@ -700,37 +669,29 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=foxsports3trimi&token=35765
 #EXTINF:-1 108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",ESPN Premium (FL)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremium&token=3576520243
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4c230dbc7f6a4bfa6ad0aa73ff792374":"4186a7c2a15f590a9399886feaec4257"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="America.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",ESPN Premium (FL)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtoken&token=3576520243
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b6fa6524d254c96b5a101c8118d3ae6:d5e2a9d3e2c5aa8587eada281acef6bc
 #EXTINF:-1 108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",ESPN Premium (2)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumtrimi&token=3576520243
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"94c9e4d22b7f59008100540395ab6071":"c85679667e247d4cf9ae07cdd5b64655","80dbb7714eb45b3588d3c3504fc54407":"8aaf77ed374e01283c5f9eed5fc0b0e5","d69ab8fc784f513686a121b69f085b5c":"945cfe61e4c2c7bc490d6c753edca557"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
-#EXTINF:-1 108" tvg-id="FOX Sports Premium.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/50191211073985.png",ESPN Premium (3)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=espnpremiumsupercanal&token=3576520243
-
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
 #EXTINF:-1 109" tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",TNT Sports Premium (FL)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsports&token=3576520243
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstoken&token=3576520243
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c79a27f46f44bfbb774b8c7f1f1e57f:530fd0cba9dc556a339b03af4b0951b9
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png",TNT Sports Premium (2)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportstrimi&token=3576520243
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"32a676e28a33590b94a6e498ad83b486":"e74d3a490e83035ba4fb62d90f78d30a","6fc46152f5f95fbd9b5cd86ca70ec8cc":"9215c3144ef88413f858196d9b79198f","20977c2237e3511793cb731c41f513ad":"e6fa8f27b510bef16d0c6c0c43eb112e"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.mio.tv
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.mio.tv
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png", TNT Sports Premium (3)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tntsportssupercanal&token=3576520243
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e070a7426b8cb1cab5f63996b7bd7669":"1c140e0715b26c7232942ab87d232964"}

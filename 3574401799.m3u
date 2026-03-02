@@ -12,15 +12,11 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=agenda&token=3574401799
 #EXTINF:-1 tvg-id="america tv.ar" tvg-name="America.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png",America
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=americass&token=3574401799
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e7b05c7a737b7f0a5d571b91deaa2697":"4079ac205b544b1c294ee1568906ff58"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 tvg-id="El Trece.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png",El Trece (Interior)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=eltrecesensa&token=3574401799
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6e88815a08b44c73a191161d3c15d890:9193a6d29f77bd651b9277f8f70b61b5
-#EXTINF:-1 tvg-id="El Trece.ar" tvg-name="Canal 13.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png",El Trece (Nacional)
+#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1 tvg-id="El Trece.ar" tvg-name="Canal 13.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png",El Trece
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=eltrecetrimi&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -37,6 +33,8 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=elnueve&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 #EXTINF:-1 tvg-id="telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png",Telefe
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=telefe&token=3574401799
 
@@ -535,8 +533,15 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=agenda&token=3574401799
 ### #### #### #### #### #### #### #### #### #### #### PARTIDOS ARG #### #### #### #### #### #### #### #### #### #### #### #### #### #### ####
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8
-#EXTINF:-1 114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports HD
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1 114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports (FL)
+http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsports&token=3574401799
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cac7b52cb14661fe3db0449020791d97:0c2780acce4ef9d7334ef25be445ceb4
+#EXTINF:-1 114" tvg-id="TYC" tvg-name="TyC Sports.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports (TM)
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -545,11 +550,6 @@ http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportstrimi&token=357440
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar/
 #EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports Internacional
 http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycsportsinter&token=3574401799
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1c671f202f035fc68295e285440e1f06":"310aef86833c26696c1f6682934530ce","3269cc1ffdc856d39d6d27acaaeb9c57":"af30637020bd80650ef7ac7a57f05405","98c0a1fb0d425f88bfe1c2ad098575ae":"aae9f2ad90d5d29db4314586af9b414f"}
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1981/CH_LOGO/160/160/0/0/28233186072861.png",TyC Sports Internacional (CL)
-http://vps-5182765-x.dattaweb.com/redirige.php?canal=tycintercl&token=3574401799
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e884b711ab111beb8a7ba1e7bcbdc9bf":"cb89ee3961599e3e648a5aad60895f34"}
